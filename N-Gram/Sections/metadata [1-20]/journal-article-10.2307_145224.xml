@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jhumanresources</journal-id>
+         <journal-id journal-id-type="jstor">j100226</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Human Resources</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Wisconsin Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0022166X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/145224</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Communications</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>An Empirical Test of the Theory of On-The-Job Search</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Matthew</given-names>
+                  <surname>Black</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1981</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i301232</issue-id>
+         <fpage>129</fpage>
+         <lpage>140</lpage>
+         <page-range>129-140</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1980 The Board of Regents of the University of Wisconsin System</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/145224"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d652e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d652e130" publication-type="journal">
+Barron and McCafferty [2]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e138" publication-type="other">
+Black [6]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e144" publication-type="journal">
+Gronau [13]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e153" publication-type="journal">
+McCall [16]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e161" publication-type="journal">
+Mortensen [19  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e169" publication-type="journal">
+21  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e177" publication-type="journal">
+Parsons [23]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e185" publication-type="journal">
+Rothschild [26]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e194a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d652e201" publication-type="book">
+Bartel and Borjas [4]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e209" publication-type="other">
+Black [6]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e215" publication-type="journal">
+Flanagan [12]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e224" publication-type="journal">
+Parsons [22  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e232" publication-type="journal">
+23  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e241a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d652e248" publication-type="journal">
+Barnes [1]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e256" publication-type="journal">
+Barron and Mellow [3]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e264" publication-type="journal">
+Ehrenberg and Oaxaca [10]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e273" publication-type="book">
+Felder [11]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e282a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d652e289" publication-type="journal">
+Barron and McCafferty [2]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e297" publication-type="journal">
+Burdett [8]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e305" publication-type="book">
+Kesselman [14]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e315a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d652e322" publication-type="book">
+Mortensen [20]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e331a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d652e338" publication-type="other">
+Black [6]</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e345a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d652e352" publication-type="book">
+Parsons [24]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e360" publication-type="other">
+Black [6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e366" publication-type="journal">
+7  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e375" publication-type="journal">
+Flanagan [12]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d652e383" publication-type="journal">
+Mellow [18]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e392a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d652e399" publication-type="book">
+Survey Research Center [27]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d652e408a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d652e415" publication-type="journal">
+Burdett [8]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d652e433a1310">
+            <label>1</label>
+            <mixed-citation id="d652e440" publication-type="journal">
+William F. Barnes. "Job Search Models, the Duration of Unemployment,
+and the Asking Wage: Some Empirical Evidence." Journal of Human Resources
+10 (Spring1975): 230-40.<object-id pub-id-type="doi">10.2307/144828</object-id>
+               <fpage>230</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e459a1310">
+            <label>2</label>
+            <mixed-citation id="d652e466" publication-type="journal">
+John M. Barron and Stephen McCafferty. "Job Search, Labor Supply, and
+the Quit Decision: Theory and Evidence." American Economic Review67
+(September1977): 683-91.<object-id pub-id-type="jstor">10.2307/1813399</object-id>
+               <fpage>683</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e485a1310">
+            <label>3</label>
+            <mixed-citation id="d652e492" publication-type="journal">
+John M. Barron and Wesley Mellow. "Search Effort in the Labor Market."
+Journal of Human Resources14 (Summer1979): 389-404.<object-id pub-id-type="doi">10.2307/145576</object-id>
+               <fpage>389</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e508a1310">
+            <label>4</label>
+            <mixed-citation id="d652e515" publication-type="book">
+Ann P. Bartel and George J. Borjas. "Middle-Age Job Mobility: Its Deter-
+minants and Consequences." NBER Working Paper No. 161, January 1977.<person-group>
+                  <string-name>
+                     <surname>Bartel</surname>
+                  </string-name>
+               </person-group>
+               <source>Middle-Age Job Mobility: Its Determinants and Consequences</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e541a1310">
+            <label>5</label>
+            <mixed-citation id="d652e548" publication-type="book">
+Gary S. Becker. Human Capital. New York: Columbia University Press, 1964.<person-group>
+                  <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+               </person-group>
+               <source>Human Capital</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e570a1310">
+            <label>6</label>
+            <mixed-citation id="d652e577" publication-type="other">
+Matthew Black. "The Determinants and Implications of Job Search and Quit
+Activity." Ph.D. dissertation, The University of Michigan, 1976.</mixed-citation>
+         </ref>
+         <ref id="d652e587a1310">
+            <label>7</label>
+            <mixed-citation id="d652e594" publication-type="journal">
+—. "Pecuniary Implications of On-the-Job Search and Quit Activity."
+Review of Economics and Statistics62 (May1980): 222-29.<person-group>
+                  <string-name>
+                     <surname>Black</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>222</fpage>
+               <volume>62</volume>
+               <source>Review of Economics and Statistics</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e629a1310">
+            <label>8</label>
+            <mixed-citation id="d652e636" publication-type="journal">
+Kenneth Burdett. "A Theory of Employee Job Search and Quit Rates."
+American Economic Review68 (March1978): 212-20.<object-id pub-id-type="jstor">10.2307/1809701</object-id>
+               <fpage>212</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e652a1310">
+            <label>9</label>
+            <mixed-citation id="d652e659" publication-type="journal">
+James J. Byrne. "Occupational Mobility of Workers." Monthly Labor Review
+98 (February1975): 53-57.<person-group>
+                  <string-name>
+                     <surname>Byrne</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>53</fpage>
+               <volume>98</volume>
+               <source>Monthly Labor Review</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e694a1310">
+            <label>10</label>
+            <mixed-citation id="d652e701" publication-type="journal">
+Ronald G. Ehrenberg and Ronald L. Oaxaca. "Unemployment Insurance,
+Duration of Unemployment and Subsequent Wage Gains." American Eco-
+nomic Review66 (December1976): 754-66.<object-id pub-id-type="jstor">10.2307/1827489</object-id>
+               <fpage>754</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e721a1310">
+            <label>11</label>
+            <mixed-citation id="d652e728" publication-type="book">
+Henry E. Felder. "Job Search: An Empirical Analysis of the Search Behavior
+of Low Income Workers." Research Memorandum 25, Stanford Research
+Institute, May 1975.<person-group>
+                  <string-name>
+                     <surname>Felder</surname>
+                  </string-name>
+               </person-group>
+               <source>Job Search: An Empirical Analysis of the Search Behavior of Low Income Workers</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e757a1310">
+            <label>12</label>
+            <mixed-citation id="d652e764" publication-type="journal">
+Robert J. Flanagan. "Discrimination Theory, Labor Turnover, and Racial
+Unemployment Differentials." Journal of Human Resources13 (Spring1978):
+187-207.<object-id pub-id-type="doi">10.2307/145358</object-id>
+               <fpage>187</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e783a1310">
+            <label>13</label>
+            <mixed-citation id="d652e790" publication-type="journal">
+Reuben Gronau. "Information and Frictional Unemployment." American
+Economic Review61 (June1971): 290-301.<object-id pub-id-type="jstor">10.2307/1813427</object-id>
+               <fpage>290</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e806a1310">
+            <label>14</label>
+            <mixed-citation id="d652e813" publication-type="book">
+Jonathan R. Kesselman. "Tax Effects on Job Search, Training, and Work
+Effort." Discussion Paper 233-74, Institute for Research on Poverty, Univer-
+sity of Wisconsin, October 1974.<person-group>
+                  <string-name>
+                     <surname>Kesselman</surname>
+                  </string-name>
+               </person-group>
+               <source>Tax Effects on Job Search, Training, and Work Effort</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e842a1310">
+            <label>15</label>
+            <mixed-citation id="d652e849" publication-type="journal">
+Steven A. Lippman and John J. McCall. "The Economics of Job Search: A
+Survey." Economic Inquiry14 (June1976): 155-87<person-group>
+                  <string-name>
+                     <surname>Lippman</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>155</fpage>
+               <volume>14</volume>
+               <source>Economic Inquiry</source>
+               <year>1976</year>
+            </mixed-citation>
+            <mixed-citation id="d652e883" publication-type="journal">
+(September 1976):
+347-68.<issue>September</issue>
+               <fpage>347</fpage>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e902a1310">
+            <label>16</label>
+            <mixed-citation id="d652e909" publication-type="journal">
+John J. McCall. "Economics of Information and Job Search." Quarterly
+Journal of Economics84 (February1970): 113-26.<object-id pub-id-type="doi">10.2307/1879403</object-id>
+               <fpage>113</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e926a1310">
+            <label>17</label>
+            <mixed-citation id="d652e933" publication-type="journal">
+J. Peter Mattila. "Job Quitting and Frictional Unemployment." American
+Economic Review64 (March1974): 235-29.<object-id pub-id-type="jstor">10.2307/1814904</object-id>
+               <fpage>235</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e949a1310">
+            <label>18</label>
+            <mixed-citation id="d652e956" publication-type="journal">
+Wesley Mellow. "Turnover in the Youth Labor Market." American Statistical
+Association Proceedings of the Business and Economic Statistics Section (1977):
+632-37.<person-group>
+                  <string-name>
+                     <surname>Mellow</surname>
+                  </string-name>
+               </person-group>
+               <fpage>632</fpage>
+               <source>American Statistical Association Proceedings of the Business and Economic Statistics Section</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e988a1310">
+            <label>19</label>
+            <mixed-citation id="d652e995" publication-type="journal">
+Dale T. Mortensen. "Job Search, the Duration of Unemployment and the
+Phillips Curve." American Economic Review60 (December1970): 847-62.<object-id pub-id-type="jstor">10.2307/1818285</object-id>
+               <fpage>847</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1011a1310">
+            <label>20</label>
+            <mixed-citation id="d652e1018" publication-type="book">
+—. "Job Matching Under Imperfect Information." Technical Analysis
+Paper No. 11, U.S. Department of Labor, October 1973.<person-group>
+                  <string-name>
+                     <surname>Mortensen</surname>
+                  </string-name>
+               </person-group>
+               <source>Job Matching Under Imperfect Information</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1043a1310">
+            <label>21</label>
+            <mixed-citation id="d652e1050" publication-type="journal">
+—. "Unemployment Insurance and Job Search Decisions." Industrial
+and Labor Relations Review30 (July1977): 505-17.<object-id pub-id-type="doi">10.2307/2523111</object-id>
+               <fpage>505</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1066a1310">
+            <label>22</label>
+            <mixed-citation id="d652e1073" publication-type="journal">
+Donald 0. Parsons. "Specific Human Capital: An Application to Quit Rates
+and Layoff Rates." Journal of Political Economy80 (November/December
+1972): 1120-43.<object-id pub-id-type="jstor">10.2307/1830213</object-id>
+               <fpage>1120</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1093a1310">
+            <label>23</label>
+            <mixed-citation id="d652e1100" publication-type="journal">
+. "Quit Rates Over Time: A Search and Information Approach."
+American Economic Review63 (June1973): 390-401.<object-id pub-id-type="jstor">10.2307/1914369</object-id>
+               <fpage>390</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1116a1310">
+            <label>24</label>
+            <mixed-citation id="d652e1123" publication-type="book">
+—. "Models of Labor Market Turnover: A Theoretical and Empirical
+Survey." In Research in Labor Economics, ed. Ronald G. Ehrenberg.
+Greenwich, Conn.: JAI Press, 1977.<person-group>
+                  <string-name>
+                     <surname>Parsons</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Models of Labor Market Turnover: A Theoretical and Empirical Survey</comment>
+               <source>Research in Labor Economics</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1155a1310">
+            <label>25</label>
+            <mixed-citation id="d652e1162" publication-type="journal">
+Carl Rosenfeld. "The Extent of Job Search by Employed Workers." Monthly
+Labor Review100 (March1977): 58-62.<person-group>
+                  <string-name>
+                     <surname>Rosenfeld</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>58</fpage>
+               <volume>100</volume>
+               <source>Monthly Labor Review</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1197a1310">
+            <label>26</label>
+            <mixed-citation id="d652e1204" publication-type="journal">
+Michael Rothschild. "Searching for the Lowest Price When the Distribution
+of Prices Is Unknown." Journal of Political Economy82 (August1974):
+689-712.<object-id pub-id-type="jstor">10.2307/1837141</object-id>
+               <fpage>689</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d652e1223a1310">
+            <label>27</label>
+            <mixed-citation id="d652e1230" publication-type="book">
+Survey Research Center.A Panel Study of Income Dynamics: Study Design,
+Procedures, Available Data, Vols. I, II. Ann Arbor: University of Michigan,
+1972.<person-group>
+                  <string-name>
+                     <surname>Survey Research Center</surname>
+                  </string-name>
+               </person-group>
+               <volume>I</volume>
+               <source>A Panel Study of Income Dynamics: Study Design, Procedures, Available Data</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,20 @@
+=========================================================
+Log Records for Matching Team
+=========================================================
+
+### 9/25 ###
+Created AAAA. 
+Updated XXXX. 
+
+Now enables: 
+- Buy a burger
+- Buy a drink
+
+### Plans ###
+- Change a bug
+- Do something
+
+
+
+
+

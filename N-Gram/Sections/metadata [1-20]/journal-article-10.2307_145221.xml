@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jhumanresources</journal-id>
+         <journal-id journal-id-type="jstor">j100226</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Human Resources</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Wisconsin Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0022166X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/145221</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Communications</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Influence of Socioeconomic Background on the Earnings of Young Men</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>B. F.</given-names>
+                  <surname>Kiker</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>C. M.</given-names>
+                  <surname>Condon</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1981</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i301232</issue-id>
+         <fpage>94</fpage>
+         <lpage>105</lpage>
+         <page-range>94-105</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1980 The Board of Regents of the University of Wisconsin System</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/145221"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d638e144a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d638e151" publication-type="book">
+Survey Research
+Center [5]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d638e163a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d638e170" publication-type="book">
+Veroff,
+McClelland, and Marquis [6]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d638e182a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d638e189" publication-type="book">
+Survey Research Center [5]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d638e197" publication-type="book">
+Veroff, McClelland, and
+Marquis [6]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d638e218a1310">
+            <label>1</label>
+            <mixed-citation id="d638e225" publication-type="journal">
+J. W. Atkinson. "Motivational Determinants of Risk-Taking Behavior."
+Psychological Review64 (November1957): 359-72.<person-group>
+                  <string-name>
+                     <surname>Atkinson</surname>
+                  </string-name>
+               </person-group>
+               <issue>November</issue>
+               <fpage>359</fpage>
+               <volume>64</volume>
+               <source>Psychological Review</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d638e260a1310">
+            <label>2</label>
+            <mixed-citation id="d638e267" publication-type="journal">
+Samuel Bowles. "Schooling and Inequality from Generation to Generation."
+Journal of Political Economy80 (May/June 1972Supp.): S219-50.<object-id pub-id-type="jstor">10.2307/1831260</object-id>
+               <fpage>S219</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d638e283a1310">
+            <label>3</label>
+            <mixed-citation id="d638e290" publication-type="book">
+O. D. Duncan, D. L. Featherman, and B. Duncan. Socioeconomic Background
+and Achievement. New York: Seminar Press, 1972.<person-group>
+                  <string-name>
+                     <surname>Duncan</surname>
+                  </string-name>
+               </person-group>
+               <source>Socioeconomic Background and Achievement</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d638e315a1310">
+            <label>4</label>
+            <mixed-citation id="d638e322" publication-type="journal">
+Joseph A. Kahl. "Some Measurements of Achievement Orientation.7" American
+Journal of Sociology70 (May1965): 660-81.<object-id pub-id-type="jstor">10.2307/2774393</object-id>
+               <fpage>660</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d638e339a1310">
+            <label>5</label>
+            <mixed-citation id="d638e346" publication-type="book">
+Survey Research Center. A Panel Study of Income Dynamics, 2 vols. Ann
+Arbor: Institute for Social Research, University of Michigan, 1972.<person-group>
+                  <string-name>
+                     <surname>Survey Research Center</surname>
+                  </string-name>
+               </person-group>
+               <source>A Panel Study of Income Dynamics</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d638e371a1310">
+            <label>6</label>
+            <mixed-citation id="d638e378" publication-type="book">
+Joseph Veroff, Lor McClelland, and Kent Marquis. "Measuring Intelligence
+and Achievement Motivation in Surveys." Ann Arbor: Survey Research
+Center, Institute for Social Research, University of Michigan, October 1971.<person-group>
+                  <string-name>
+                     <surname>Veroff</surname>
+                  </string-name>
+               </person-group>
+               <source>Measuring Intelligence and Achievement Motivation in Surveys</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

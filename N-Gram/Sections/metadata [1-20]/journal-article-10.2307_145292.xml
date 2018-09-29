@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jhumanresources</journal-id>
+         <journal-id journal-id-type="jstor">j100226</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Human Resources</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Wisconsin Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0022166X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/145292</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Communications</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Occupational Licensing Queue</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Stuart</given-names>
+                  <surname>Dorsey</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1980</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">15</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i301230</issue-id>
+         <fpage>424</fpage>
+         <lpage>434</lpage>
+         <page-range>424-434</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1980 The Board of Regents of the University of Wisconsin System</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/145292"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d456e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d456e130" publication-type="journal">
+Moore
+[5]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d456e141" publication-type="journal">
+Most recently Shepard [10]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d456e150a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d456e157" publication-type="book">
+Green [3]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d456e166a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d456e173" publication-type="book">
+[11], p. 3  <fpage>3</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d456e185a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d456e192" publication-type="other">
+Dorsey [1]</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d456e200a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d456e207" publication-type="book">
+Shimberg [11], pp. 99-100  <fpage>99</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d456e219a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d456e226" publication-type="book">
+Shimberg [11], pp. 11-14  <fpage>11</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d456e237" publication-type="book">
+Rayack [7], pp. 113-20  <fpage>113</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d456e258a1310">
+            <label>1</label>
+            <mixed-citation id="d456e265" publication-type="other">
+Stuart Dorsey. "The Occupational Licensing Queue." Ph.D. dissertation,
+Washington University, 1978.</mixed-citation>
+         </ref>
+         <ref id="d456e275a1310">
+            <label>2</label>
+            <mixed-citation id="d456e282" publication-type="other">
+David Fairras. "Occupational Licensing: Supply Side Effects of an Effective
+Barrier to Entry." Unpublished paper, Washington University, 1977.</mixed-citation>
+         </ref>
+         <ref id="d456e292a1310">
+            <label>3</label>
+            <mixed-citation id="d456e299" publication-type="book">
+Karen Green.Occupational Licensing and the Supply of Nonprofessional
+Manpower. Washington: U.S. Government Printing Office, 1969.<person-group>
+                  <string-name>
+                     <surname>Green</surname>
+                  </string-name>
+               </person-group>
+               <source>Occupational Licensing and the Supply of Nonprofessional Manpower</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e324a1310">
+            <label>4</label>
+            <mixed-citation id="d456e331" publication-type="other">
+Wesley Mellow. "Market Differentials and Labor Force Behavior." Ph.D.
+dissertation, Washington University, 1975.</mixed-citation>
+         </ref>
+         <ref id="d456e342a1310">
+            <label>5</label>
+            <mixed-citation id="d456e349" publication-type="journal">
+Thomas Moore. "The Purpose of Licensing." Journal of Law and Economics
+(October1961): 93-117.<object-id pub-id-type="jstor">10.2307/724908</object-id>
+               <fpage>93</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e365a1310">
+            <label>6</label>
+            <mixed-citation id="d456e372" publication-type="book">
+S. James Press.Applied Multivariate Analysis. New York: Holt, Rinehart and
+Winston, 1972. Pp. 265-72.<person-group>
+                  <string-name>
+                     <surname>Press</surname>
+                  </string-name>
+               </person-group>
+               <fpage>265</fpage>
+               <source>Applied Multivariate Analysis</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e401a1310">
+            <label>7</label>
+            <mixed-citation id="d456e408" publication-type="book">
+Elton Rayack.An Economic Analysis of Occupational Licensing. Manpower
+Administration Report No. 98-02-6851.<person-group>
+                  <string-name>
+                     <surname>Rayack</surname>
+                  </string-name>
+               </person-group>
+               <source>An Economic Analysis of Occupational Licensing</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e430a1310">
+            <label>8</label>
+            <mixed-citation id="d456e437" publication-type="journal">
+Keith Renner. "Danger Signals Ahead." National Beauty School Journal
+(January1977): 5.<person-group>
+                  <string-name>
+                     <surname>Renner</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>5</fpage>
+               <source>National Beauty School Journal</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e469a1310">
+            <label>9</label>
+            <mixed-citation id="d456e476" publication-type="book">
+Simon Rottenberg. "The Economics of Occupational Licensing." In Aspects of
+Labor Economics. Princeton, N.J.: Princeton University Press, 1962.<person-group>
+                  <string-name>
+                     <surname>Rottenberg</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Economics of Occupational Licensing</comment>
+               <source>Aspects of Labor Economics</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e505a1310">
+            <label>10</label>
+            <mixed-citation id="d456e512" publication-type="journal">
+Lawrence Shepard. "Licensing Restrictions and the Cost of Dental Care."
+Journal of Law and Economics (April1978): 187-201.<object-id pub-id-type="jstor">10.2307/725146</object-id>
+               <fpage>187</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e529a1310">
+            <label>11</label>
+            <mixed-citation id="d456e536" publication-type="book">
+Benjamin Shimberg, Barbara Esser, and Daniel Kruger. Occupational Li-
+censing: Practices and Policies. Washington: Public Affairs Press, 1972.<person-group>
+                  <string-name>
+                     <surname>Shimberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Occupational Licensing: Practices and Policies</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d456e561a1310">
+            <label>12</label>
+            <mixed-citation id="d456e568" publication-type="journal">
+Gordon Tullock. "The Transitional Gains Trap." Bell Journal of Economics
+and Management Science (Fall1975): 671-78.<person-group>
+                  <string-name>
+                     <surname>Tullock</surname>
+                  </string-name>
+               </person-group>
+               <issue>Fall</issue>
+               <fpage>671</fpage>
+               <source>Bell Journal of Economics and Management Science</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

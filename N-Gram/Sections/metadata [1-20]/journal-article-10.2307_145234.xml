@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jhumanresources</journal-id>
+         <journal-id journal-id-type="jstor">j100226</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Human Resources</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Wisconsin Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0022166X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/145234</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Studies on the Economics of Mental Health</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Financing and Demand for Mental Health Services</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Thomas G.</given-names>
+                  <surname>McGuire</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1981</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i301235</issue-id>
+         <fpage>501</fpage>
+         <lpage>522</lpage>
+         <page-range>501-522</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1981 The Board of Regents of the University of Wisconsin System</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/145234"/>
+         <abstract>
+            <p>This paper surveys the emerging literature on financing and demand for mental health services. Most studies at present simply report the cost experience of members of an insurance pool, and research on demand behavior has been very limited. Nevertheless, some conclusions are possible. First, the responsiveness of demand for outpatient mental health care is greater than the responsiveness of demand for general medical services. Second, demand for mental health services grows over time among members of an insurance pool, even as coverage remains stable. Third, demand of lower income groups is more responsive to insurance than is demand of upper income groups. New research should focus on the effect of financing policy on the choice of setting for care.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1289e129a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d1289e136" publication-type="conference">
+This paper is a revision of one presented at the Conference on Economics and Mental
+Health, December 13 and 14, 1979, in Washington, D.C., sponsored by the National Insti-
+tute of Mental Health<source>Conference on Economics and Mental Health, December 13 and 14</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1289e155a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1289e162" publication-type="book">
+Reed, Myers, and Scheidemandel [19]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1289e171a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1289e178" publication-type="book">
+McGuire [12]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1289e187a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1289e194" publication-type="book">
+Marmor [11]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1289e204a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1289e211" publication-type="journal">
+Scitovsky and Snyder [21]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1289e219" publication-type="journal">
+Newhouse [15]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1289e228a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1289e235" publication-type="journal">
+Heckman's [4]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1289e243" publication-type="book">
+McGuire [12]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1289e261a1310">
+            <label>1</label>
+            <mixed-citation id="d1289e268" publication-type="other">
+Aetna Life and Casualty. "Study of 1973 Mental and Nervous Claims Under
+the Government-Wide Indemnity Benefit Plan." July 1976.</mixed-citation>
+         </ref>
+         <ref id="d1289e278a1310">
+            <label>2</label>
+            <mixed-citation id="d1289e285" publication-type="other">
+Alcohol, Drug Abuse, and Mental Health Administration, Office of Program
+Planning and Evaluation. "Alcohol, Drug Abuse, and Mental Health Services
+Under National Health Insurance: Alternative Levels of Benefits and Esti-
+mated Costs." April 1979.</mixed-citation>
+         </ref>
+         <ref id="d1289e301a1310">
+            <label>3</label>
+            <mixed-citation id="d1289e308" publication-type="book">
+Health Insurance Institute. Source Book of Health Insurance Data. New
+York: various issues.<person-group>
+                  <string-name>
+                     <surname>Health Insurance Institute</surname>
+                  </string-name>
+               </person-group>
+               <source>Source Book of Health Insurance Data</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e330a1310">
+            <label>4</label>
+            <mixed-citation id="d1289e337" publication-type="journal">
+James Heckman. "The Common Structure of Statistical Models of Trunca-
+tion, Sample Selection, and Limited Dependent Variables and a Simple Esti-
+mator for Such Models." Annals of Economic and Social Measurement5 (Fall
+1976): 475-92.<person-group>
+                  <string-name>
+                     <surname>Heckman</surname>
+                  </string-name>
+               </person-group>
+               <issue>Fall</issue>
+               <fpage>475</fpage>
+               <volume>5</volume>
+               <source>Annals of Economic and Social Measurement</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e379a1310">
+            <label>5</label>
+            <mixed-citation id="d1289e386" publication-type="journal">
+B.S.Herrington. "Blue Cross, Blue Shield Tighten Psychiatric Coverages in
+East, West." Psychiatric News, September 7, 1979.<person-group>
+                  <string-name>
+                     <surname>Herrington</surname>
+                  </string-name>
+               </person-group>
+               <issue>September 7</issue>
+               <source>Psychiatric News</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e415a1310">
+            <label>6</label>
+            <mixed-citation id="d1289e422" publication-type="journal">
+E.C.Hustead and S.S.Sharfstein. "Utilization and Cost of Mental Illness
+Coverage in the Federal Employees Health Benefit Program, 1973." American
+Journal of Psychiatry133 (March1978): 315-19.<person-group>
+                  <string-name>
+                     <surname>Hustead</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>315</fpage>
+               <volume>133</volume>
+               <source>American Journal of Psychiatry</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e460a1310">
+            <label>7</label>
+            <mixed-citation id="d1289e467" publication-type="book">
+K.Jones and T.Vischi. "Impact of Alcohol, Drug Abuse, and Mental Health
+Treatment on Medical Care Utilization." Washington: Alcohol, Drug Abuse,
+and Mental Health Administration, Office of Program Planning and Evalua-
+tion, February 1979.<person-group>
+                  <string-name>
+                     <surname>Jones</surname>
+                  </string-name>
+               </person-group>
+               <source>Impact of Alcohol, Drug Abuse, and Mental Health Treatment on Medical Care Utilization</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e499a1310">
+            <label>8</label>
+            <mixed-citation id="d1289e506" publication-type="other">
+J. Krizay. "Utilization of Psychiatric Services Under the Federal Employees
+Benefit Program Over Five Years, 1973-1977." Mimeo.</mixed-citation>
+         </ref>
+         <ref id="d1289e516a1310">
+            <label>9</label>
+            <mixed-citation id="d1289e523" publication-type="journal">
+H.Leibenstein. "Bandwagon, Snob and Veblen Effects in the Theory of Con-
+sumers' Demand." Quarterly Journal of Economics64 (May1950): 183-207.<object-id pub-id-type="doi">10.2307/1882692</object-id>
+               <fpage>183</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e539a1310">
+            <label>10</label>
+            <mixed-citation id="d1289e546" publication-type="other">
+B. Liptzin, D. A. Regier, and I. D. Goldberg. "Health and Mental Health
+Utilization in a Large, Insured Population." Mimeo.</mixed-citation>
+         </ref>
+         <ref id="d1289e557a1310">
+            <label>11</label>
+            <mixed-citation id="d1289e564" publication-type="book">
+J.Marmor. Psychiatrists and Their Patients, Joint Information Service. Wash-
+ington: 1975.<person-group>
+                  <string-name>
+                     <surname>Marmor</surname>
+                  </string-name>
+               </person-group>
+               <source>Psychiatrists and Their Patients, Joint Information Service</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e589a1310">
+            <label>12</label>
+            <mixed-citation id="d1289e596" publication-type="book">
+Thomas G. McGuire. Financing Psychotherapy: Costs, Effects and Public
+Policy. Cambridge, Mass.: Ballinger, 1981.<person-group>
+                  <string-name>
+                     <surname>McGuire</surname>
+                  </string-name>
+               </person-group>
+               <source>Financing Psychotherapy: Costs, Effects and Public Policy</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e621a1310">
+            <label>13</label>
+            <mixed-citation id="d1289e628" publication-type="journal">
+J.B.McKinley. "Social Networks, Lay Consultation and Help-Seeking Be-
+havior." Social Forces51 (March1973): 275-91.<person-group>
+                  <string-name>
+                     <surname>McKinley</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>275</fpage>
+               <volume>51</volume>
+               <source>Social Forces</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e663a1310">
+            <label>14</label>
+            <mixed-citation id="d1289e670" publication-type="book">
+National Institute for Mental Health. Draft Report: The Financing, Utilization
+and Quality of Mental Health Care in the U.S. Rockville, MD: NIMH, 1976.<person-group>
+                  <string-name>
+                     <surname>National Institute for Mental Health</surname>
+                  </string-name>
+               </person-group>
+               <source>Draft Report: The Financing, Utilization and Quality of Mental Health Care in the U.S.</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e695a1310">
+            <label>15</label>
+            <mixed-citation id="d1289e702" publication-type="journal">
+Joseph P. Newhouse. "A Design for a Health Insurance Experiment." Inquiry
+11 (March1974): 5-27.<person-group>
+                  <string-name>
+                     <surname>Newhouse</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>5</fpage>
+               <volume>11</volume>
+               <source>Inquiry</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e737a1310">
+            <label>16</label>
+            <mixed-citation id="d1289e744" publication-type="journal">
+—. "Insurance Benefits, Out-of-Pocket Payments, and the Demand for
+Medical Care." Health and Medical Care Services Review1 (July/August 1978):
+1-15.<person-group>
+                  <string-name>
+                     <surname>Newhouse</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>1</fpage>
+               <volume>1</volume>
+               <source>Health and Medical Care Services Review</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e783a1310">
+            <label>17</label>
+            <mixed-citation id="d1289e790" publication-type="book">
+President's Commission on Mental Health. Report. Washington: U.S. Govem-
+ment Printing Office, 1978.<person-group>
+                  <string-name>
+                     <surname>President's Commission on Mental Health</surname>
+                  </string-name>
+               </person-group>
+               <source>Report</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e815a1310">
+            <label>18</label>
+            <mixed-citation id="d1289e822" publication-type="book">
+L.S.Reed. Coverage and Utilization of Care for Mental Conditions Under
+Health Insurance—Various Studies, 1973-74. Washington: American Psychi-
+atric Association, 1975.<person-group>
+                  <string-name>
+                     <surname>Reed</surname>
+                  </string-name>
+               </person-group>
+               <source>Coverage and Utilization of Care for Mental Conditions Under Health Insurance—Various Studies, 1973-74</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e851a1310">
+            <label>19</label>
+            <mixed-citation id="d1289e858" publication-type="book">
+L.S.Reed, Evelyn S. Myers, and P. L. Scheidemandel. Health Insurance and
+Psychiatric Care: Utilization and Cost. Washington: American Psychiatric
+Association, 1972.<person-group>
+                  <string-name>
+                     <surname>Reed</surname>
+                  </string-name>
+               </person-group>
+               <source>Health Insurance and Psychiatric Care: Utilization and Cost</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e887a1310">
+            <label>20</label>
+            <mixed-citation id="d1289e894" publication-type="journal">
+D.A.Regier, I.D.Goldberg, and C.A.Taube. "The De Facto U.S. Mental
+Health Services System: A Public Health Perspective." American Journal of
+Psychiatry (1978).<person-group>
+                  <string-name>
+                     <surname>Regier</surname>
+                  </string-name>
+               </person-group>
+               <source>American Journal of Psychiatry</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1289e923a1310">
+            <label>21</label>
+            <mixed-citation id="d1289e930" publication-type="journal">
+A.Scitovsky and N.Snyder. "Effect of Coinsurance on Use of Physician
+Services." Social Security Bulletin (1972).<person-group>
+                  <string-name>
+                     <surname>Scitovsky</surname>
+                  </string-name>
+               </person-group>
+               <source>Social Security Bulletin</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,20 @@
+=========================================================
+Log Records for N-Gram Team
+=========================================================
+
+### 9/25 ###
+Updated filtering constraints. Now enables: 
+- Create DataFrames for ngram1, ngram2, ngram3
+- Filter out entry begins/ends with a number
+- Filter out entry is a single letter (unigram only)
+
+### Plans ###
+- Change a bug that 2-grams also filters out single letter words
+- Writes specifically for ngram3 (now combined with ngram2)
+- Make ngram DataFrames formatted and be prepared for matching trials
+
+
+
+
+
+

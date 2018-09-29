@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jhumanresources</journal-id>
+         <journal-id journal-id-type="jstor">j100226</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Human Resources</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Wisconsin Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0022166X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/145233</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Studies on the Economics of Mental Health</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Perspectives on the Economics of Mental Health</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Thomas G.</given-names>
+                  <surname>McGuire</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Burton A.</given-names>
+                  <surname>Weisbrod</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1981</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i301235</issue-id>
+         <fpage>494</fpage>
+         <lpage>500</lpage>
+         <page-range>494-500</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1981 The Board of Regents of the University of Wisconsin System</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/145233"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1296e135a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1296e142" publication-type="book">
+Thomas G. McGuire and Burton A. Weisbrod, eds., Economics and Mental Health
+(Washington: National Institute of Mental Health, 1980)<person-group>
+                     <string-name>
+                        <surname>McGuire</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Economics and Mental Health</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>
