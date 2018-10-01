@@ -46,6 +46,7 @@ pay                 levels              4
 pay                 more                4
 pay                 setting             4
 public              private             4
+q                   w                   4
 quits               earnings            4
 rate                government          4
 affect              quit                3
@@ -53,6 +54,7 @@ agency              size                3
 between             firm                3
 between             quit                3
 between             quits               3
+c                   d                   3
 can                 explained           3
 census              manufactures        3
 costs               point               3
@@ -72,6 +74,8 @@ negative            function            3
 nonpermanent        employees           3
 other               differences         3
 other               hand                3
+p                   r                   3
+p                   t                   3
 paid                more                3
 pay                 comparable          3
 pay                 rates               3
@@ -108,6 +112,7 @@ between             earnings            2
 between             private             2
 between             public              2
 bls                 average             2
+borjas              s                   2
 budget              office              2
 can                 accounted           2
 can                 found               2
@@ -130,6 +135,7 @@ costs               hiring              2
 costs               may                 2
 costs               relative            2
 costs               tc                  2
+d                   dissertation        2
 data                from                2
 data                trace               2
 department          health              2
@@ -164,6 +170,7 @@ government          compared            2
 government          manufacturing       2
 government          one                 2
 government          quit                2
+government          s                   2
 government          workers             2
 great               deal                2
 have                higher              2
@@ -202,6 +209,7 @@ matched             bls                 2
 may                 appropriate         2
 measure             pay                 2
 mechanically        related             2
+minimize            c                   2
 model               empirical           2
 monthly             quit                2
 more                like                2
@@ -213,6 +221,7 @@ ols                 estimates           2
 one                 firm                2
 optimizing          procedure           2
 out                 points              2
+p                   q                   2
 parentheses         below               2
 pay                 equal               2
 pay                 high                2
@@ -224,6 +233,9 @@ per                 period              2
 per                 slot                2
 permanent           employment          2
 personal            characteristics     2
+ph                  d                   2
+points              b                   2
+points              c                   2
 points              chosen              2
 positive            relationship        2
 private             industry            2
@@ -243,6 +255,7 @@ rates               may                 2
 related             firm                2
 relations           review              2
 relatively          constant            2
+s                   department          2
 sector              quit                2
 sector              size                2
 sector              workers             2
@@ -264,9 +277,13 @@ trace               out                 2
 transfer            between             2
 transfer            large               2
 two                 different           2
+u                   s                   2
 unemployment        insurance           2
 use                 quit                2
+values              t                   2
 variance            turnover            2
+w                   fs                  2
+w                   w                   2
 wage                determination       2
 wage                quit                2
 wages               firm                2
@@ -275,11 +292,13 @@ which               turnover            2
 within              agency              2
 workers             public              2
 would               chosen              2
+x                   y                   2
 ability             federal             1
 about               five                1
 about               relative            1
 above               greater             1
 above               implies             1
+above               x                   1
 abstract            many                1
 accept              jobs                1
 accept              low                 1
@@ -308,6 +327,7 @@ addition            maintains           1
 addition            pay                 1
 addition            positive            1
 adie                evaluation          1
+adie                s                   1
 adjust              all                 1
 adjusted            annually            1
 adjusted            differences         1
@@ -323,6 +343,7 @@ age                 one                 1
 age                 sex                 1
 agencies            according           1
 agencies            more                1
+agencies            p                   1
 agencies            when                1
 agency              coefficient         1
 agency              coefficients        1
@@ -349,6 +370,8 @@ allow               comparison          1
 allow               declining           1
 allows              them                1
 alone               government          1
+along               q                   1
+along               w                   1
 already             determined          1
 already             out                 1
 also                affect              1
@@ -419,6 +442,14 @@ average             firm                1
 average             observed            1
 average             tenure              1
 axis                slope               1
+b                   figure              1
+b                   fs                  1
+b                   lnearn              1
+b                   negative            1
+b                   permanent           1
+b                   producing           1
+b                   represent           1
+b                   would               1
 b21nsize            quit                1
 base                agency              1
 based               assumption          1
@@ -470,6 +501,7 @@ between             poles               1
 between             size                1
 between             turnover            1
 between             workers             1
+between             x                   1
 bias                can                 1
 bias                case                1
 bias                comparisons         1
@@ -483,6 +515,7 @@ bls                 state               1
 bls                 straight            1
 bls                 study               1
 bls                 survey              1
+bo                  b                   1
 borjas              believes            1
 borjas              from                1
 borjas              paper               1
@@ -503,6 +536,14 @@ burdett             theory              1
 bureau              economic            1
 bureau              labor               1
 bureaucrats         university          1
+c                   cost                1
+c                   each                1
+c                   gd                  1
+c                   lnearn              1
+c                   per                 1
+c                   point               1
+c                   w                   1
+c                   which               1
 c1lnsize            variable            1
 calculate           pay                 1
 calculate           than                1
@@ -648,6 +689,7 @@ cost                per                 1
 cost                providing           1
 costs               according           1
 costs               because             1
+costs               c                   1
 costs               compensation        1
 costs               conclusion          1
 costs               do                  1
@@ -685,6 +727,11 @@ cycles              quits               1
 cyclical            pattern             1
 cyclical            sensitivity         1
 cyclically          sensitive           1
+d                   b                   1
+d                   chosen              1
+d                   producing           1
+d                   relationship        1
+d                   represent           1
 data                both                1
 data                come                1
 data                look                1
@@ -703,6 +750,7 @@ deal                data                1
 deal                easier              1
 decides             move                1
 declining           marginal            1
+defense             i                   1
 defense             manpower            1
 defense             single              1
 defined             include             1
@@ -788,6 +836,8 @@ do                  necessarily         1
 do                  pay                 1
 does                set                 1
 does                signify             1
+donald              o                   1
+douglas             k                   1
 dq                  figure              1
 dq                  ofs                 1
 dq                  ow                  1
@@ -800,10 +850,12 @@ due                 training            1
 during              period              1
 during              recessions          1
 dw                  dq                  1
+e                   garen               1
 each                covered             1
 each                straight            1
 each                worker              1
 each                year                1
+earn                i                   1
 earn                more                1
 earnings            also                1
 earnings            can                 1
@@ -949,6 +1001,8 @@ expressed           terms               1
 extended            several             1
 extensions          before              1
 extreme             example             1
+f                   quinn               1
+f                   s                   1
 fact                cross               1
 fact                government          1
 factors             affect              1
@@ -1014,6 +1068,7 @@ flatter             could               1
 flows               both                1
 flows               government          1
 flows               inconsistent        1
+flows               n                   1
 flowsa              percents            1
 fogel               david               1
 fogel               lewin               1
@@ -1031,6 +1086,7 @@ found               longer              1
 found               most                1
 foundation          defense             1
 framework           efficient           1
+frederick           h                   1
 from                administrative      1
 from                data                1
 from                employment          1
@@ -1046,10 +1102,13 @@ from                unemployment        1
 fs                  curve               1
 fs                  dq                  1
 fs                  given               1
+fsi                 b                   1
 function            agency              1
 function            pay                 1
+function            w                   1
 function            wages               1
 function            workers             1
+g                   dewald              1
 garen               effect              1
 gd                  fsi                 1
 general             author              1
@@ -1057,6 +1116,8 @@ general             identify            1
 generally           play                1
 generous            matter              1
 geographic          area                1
+george              j                   1
+given               c                   1
 given               description         1
 given               previous            1
 given               size                1
@@ -1103,6 +1164,8 @@ greater             large               1
 greater             possibility         1
 gs                  permanentb          1
 guide               government          1
+h                   miller              1
+h                   perloff             1
 half                all                 1
 hand                agencies            1
 hand                finds               1
@@ -1125,6 +1188,7 @@ he                  continues           1
 he                  quits               1
 he                  stops               1
 hence               increases           1
+hence               q                   1
 here                do                  1
 here                has                 1
 here                indicates           1
@@ -1162,6 +1226,10 @@ however             indicates           1
 however             public              1
 hundred             workers             1
 hypothesis          negative            1
+i                   am                  1
+i                   cross               1
+i                   journal             1
+i                   know                1
 ican                economic            1
 identification      problem             1
 identified          single              1
@@ -1233,6 +1301,7 @@ its                 competition         1
 its                 operation           1
 its                 quit                1
 its                 use                 1
+j                   borjas              1
 jacobson            alternative         1
 jacobson            quit                1
 jan                 uary                1
@@ -1248,7 +1317,10 @@ jobs                pay                 1
 jobs                private             1
 jobs                turnover            1
 jobs                year                1
+john                e                   1
+john                t                   1
 johns               hopkins             1
+joseph              f                   1
 journal             political           1
 jr                  wages               1
 just                due                 1
@@ -1256,6 +1328,7 @@ just                temporary           1
 justified           higher              1
 justify             high                1
 justment            procedures          1
+k                   adie                1
 kenneth             burdett             1
 know                two                 1
 knowledge           turnover            1
@@ -1277,6 +1350,7 @@ layoff              rates               1
 less                cyclically          1
 less                lucrative           1
 lester              pay                 1
+level               q                   1
 levels              comparable          1
 levels              how                 1
 levels              minimize            1
@@ -1286,7 +1360,11 @@ levels              quit                1
 levels              while               1
 lewin               wage                1
 lies                somewhere           1
+like                b                   1
+like                c                   1
+like                d                   1
 like                firms               1
+like                q                   1
 like                small               1
 likely              large               1
 likely              quit                1
@@ -1318,6 +1396,7 @@ longer              version             1
 looking             rarely              1
 lost                pro                 1
 louis               jacobson            1
+louis               s                   1
 low                 during              1
 low                 pay                 1
 low                 seniority           1
@@ -1406,6 +1485,7 @@ minimize            compen              1
 minimize            costs               1
 minimizes           sum                 1
 minimum             depends             1
+mist                s                   1
 model               explains            1
 model               has                 1
 model               large               1
@@ -1445,6 +1525,7 @@ must                choose              1
 must                deliberately        1
 must                separated           1
 must                willing             1
+n                   years               1
 na                  tional              1
 national            bureau              1
 navy                manpower            1
@@ -1468,6 +1549,8 @@ number              establishments      1
 number              individuals         1
 number              positions           1
 number              reporting           1
+o                   dq                  1
+o                   parsons             1
 objective           paper               1
 objective           pay                 1
 observation         large               1
@@ -1520,6 +1603,7 @@ optimization        model               1
 optimum             condition           1
 optimum             pay                 1
 optimum             points              1
+optimum             w                   1
 oq                  ow                  1
 other               determinants        1
 other               important           1
@@ -1534,6 +1618,8 @@ out                 work                1
 over                any                 1
 over                cycle               1
 overly              generous            1
+ow                  o                   1
+p                   smith               1
 pack                age                 1
 package             should              1
 paid                civilian            1
@@ -1610,6 +1696,8 @@ ployees             than                1
 plus                lost                1
 plus                sum                 1
 point               along               1
+point               b                   1
+point               d                   1
 point               large               1
 point               minimize            1
 point               where               1
@@ -1698,6 +1786,11 @@ providing           fringe              1
 public              pay                 1
 pure                effect              1
 pure                size                1
+q                   firms               1
+q                   negative            1
+q                   profit              1
+q                   q                   1
+q                   quit                1
 qs                  ws                  1
 quality             workers             1
 quester             comments            1
@@ -1723,6 +1816,7 @@ quits               explanation         1
 quits               following           1
 quits               hence               1
 quits               low                 1
+quits               p                   1
 quits               proposed            1
 quits               retention           1
 quits               see                 1
@@ -1730,6 +1824,9 @@ quits               table               1
 quits               wages               1
 quits               while               1
 quitting            zero                1
+r                   p                   1
+r                   probability         1
+r                   where               1
 rarely              quits               1
 rate                agency              1
 rate                associated          1
@@ -1743,6 +1840,7 @@ rate                function            1
 rate                may                 1
 rate                one                 1
 rate                only                1
+rate                q                   1
 rate                see                 1
 rate                would               1
 rates               across              1
@@ -1838,6 +1936,7 @@ reservation         wages               1
 reserve             affairs             1
 resources           across              1
 resources           also                1
+resources           c                   1
 resources           firm                1
 resources           levels              1
 resources           references          1
@@ -1865,6 +1964,14 @@ role                constituents        1
 routinely           collected           1
 rule                government          1
 rule                private             1
+s                   conclusions         1
+s                   curve               1
+s                   estimate            1
+s                   findings            1
+s                   jacobson            1
+s                   pay                 1
+s                   perspective         1
+s                   stated              1
 salaries            industrial          1
 salaries            white               1
 same                job                 1
@@ -1964,6 +2071,7 @@ setting             remains             1
 setting             salaries            1
 several             ways                1
 sex                 affect              1
+sharon              p                   1
 shift               relative            1
 should              choose              1
 should              differ              1
@@ -1972,6 +2080,7 @@ should              independent         1
 should              mean                1
 should              rule                1
 should              used                1
+shouldn             t                   1
 show                cyclical            1
 show                equal               1
 show                expected            1
@@ -2033,6 +2142,7 @@ sizes               relatively          1
 sizes               small               1
 skills              federal             1
 slope               line                1
+slot                c                   1
 slot                maximize            1
 slot                where               1
 slots               other               1
@@ -2070,6 +2180,7 @@ statistic           when                1
 statistical         abstract            1
 statistics          bls                 1
 statistics          many                1
+statistics          p                   1
 statistics          presented           1
 statistics          procedures          1
 statistics          rates               1
@@ -2077,6 +2188,7 @@ statistics          released            1
 statistics          reported            1
 statistics          routinely           1
 statistics          shown               1
+stephen             h                   1
 stock               figures             1
 stock               firm                1
 stock               plus                1
@@ -2123,15 +2235,24 @@ system              most                1
 systems             ad                  1
 systems             can                 1
 systems             terms               1
+t                   available           1
+t                   government          1
+t                   p                   1
+t                   probability         1
+t                   statistic           1
+t                   statistics          1
+t                   warner              1
 taken               account             1
 taken               determine           1
 taken               here                1
 taken               off                 1
+tangent             w                   1
 taxpayers           government          1
 tc                  choose              1
 tc                  dw                  1
 tc                  increase            1
 tc                  oq                  1
+tc                  q                   1
 tc                  tangent             1
 tc                  tc                  1
 tc                  turnover            1
@@ -2160,6 +2281,7 @@ than                small               1
 than                those               1
 than                turnover            1
 than                unemployment        1
+than                y                   1
 them                obtain              1
 theory              employee            1
 theory              hierarchy           1
@@ -2266,6 +2388,15 @@ views               expressed           1
 vol                 ii                  1
 volatile            over                1
 volume              april               1
+w                   axis                1
+w                   endogenous          1
+w                   f                   1
+w                   figure              1
+w                   hypothesis          1
+w                   includes            1
+w                   minimize            1
+w                   tc                  1
+w                   wage                1
 wage                above               1
 wage                between             1
 wage                blue                1
@@ -2288,12 +2419,15 @@ wages               hiring              1
 wages               profit              1
 wages               quit                1
 wages               why                 1
+wages               x                   1
 walter              fogel               1
+walter              y                   1
 want                permanent           1
 wants               move                1
 warner              issues              1
 washington          american            1
 washington          february            1
+washington          u                   1
 ways                other               1
 we                  assume              1
 we                  need                1
@@ -2313,7 +2447,9 @@ when                worker              1
 whenever            possible            1
 where               department          1
 where               marginal            1
+where               p                   1
 where               set                 1
+where               w                   1
 whether             transfer            1
 which               choose              1
 which               equal               1
@@ -2326,6 +2462,7 @@ who                 most                1
 who                 pay                 1
 whole               government          1
 why                 government          1
+william             g                   1
 willing             accept              1
 wisconsin           systemutgoff        1
 within              firm                1
@@ -2376,6 +2513,11 @@ would               less                1
 would               lower               1
 would               make                1
 ws                  satisfy             1
+x                   he                  1
+y                   any                 1
+y                   job                 1
+y                   oi                  1
+y                   worker              1
 year                after               1
 year                bureau              1
 year                government          1

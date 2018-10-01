@@ -1,5 +1,6 @@
 written             test                     17
 occupational        licensing                12
+i                   i                        11
 written             examination              11
 licensing           examinations             10
 practical           examination              10
@@ -45,6 +46,7 @@ trade               schools                  3
 who                 fail                     3
 absence             licensing                2
 advantage           over                     2
+apprentice          s                        2
 attempt             obtain                   2
 attributes          important                2
 basic               education                2
@@ -52,6 +54,7 @@ basis               characteristics          2
 better              educated                 2
 competitive         market                   2
 cosmetology         training                 2
+d                   dissertation             2
 dissertation        washington               2
 does                measure                  2
 educated            apprentices              2
@@ -83,6 +86,7 @@ important           passing                  2
 individuals         have                     2
 job                 performance              2
 journal             law                      2
+l                   r                        2
 labor               force                    2
 law                 economics                2
 less                able                     2
@@ -109,10 +113,12 @@ only                two                      2
 percent             less                     2
 percent             missouri                 2
 performance         licensing                2
+ph                  d                        2
 practical           scores                   2
 practical           test                     2
 protect             public                   2
 purpose             licensing                2
+r                   i                        2
 race                spaname                  2
 rejected            applicants               2
 rejecting           workers                  2
@@ -123,13 +129,16 @@ run                 equilibrium              2
 school              graduates                2
 score               lower                    2
 set                 requirements             2
+shimberg            s                        2
 stock               workers                  2
 stuart              dorsey                   2
+t                   statistics               2
 test                does                     2
 testing             procedures               2
 than                whites                   2
 those               making                   2
 total               entry                    2
+u                   s                        2
 unregulated         sector                   2
 vocational          high                     2
 welfare             loss                     2
@@ -216,6 +225,7 @@ alternative         wage                     1
 alternatives        already                  1
 american            business                 1
 among               groups                   1
+analogous           f                        1
 analysis            new                      1
 analysis            occupational             1
 analysis            written                  1
@@ -248,6 +258,7 @@ applicant           blacks                   1
 applicant           can                      1
 applicant           characteristics          1
 applicant           female                   1
+applicant           s                        1
 applicant           spanish                  1
 applicant           time                     1
 applicant           who                      1
@@ -320,6 +331,7 @@ available           other                    1
 average             more                     1
 average             vi                       1
 avoided             neutralizing             1
+b                   d                        1
 barbara             esser                    1
 barber              exams                    1
 barbers             cosmetologists           1
@@ -438,6 +450,7 @@ comments            licensing                1
 comments            made                     1
 compara             tive                     1
 comparable          coefficient              1
+competency          l                        1
 competency          productivity             1
 competent           productive               1
 competent           strong                   1
@@ -449,6 +462,7 @@ complete            perfomance               1
 complete            treatment                1
 completed           written                  1
 comprise            missouri                 1
+compute             t                        1
 concentrated        among                    1
 concerned           effects                  1
 conclusions         require                  1
@@ -456,6 +470,7 @@ conclusions         written                  1
 confident           examiners                1
 considered          necessary                1
 considers           another                  1
+constant            n                        1
 constant            residual                 1
 constant            zero                     1
 consumer            interests                1
@@ -485,6 +500,7 @@ cost                entry                    1
 costless            information              1
 costs               attempt                  1
 costs               causes                   1
+costs               k                        1
 costs               should                   1
 costs               specific                 1
 costs               unemployment             1
@@ -502,6 +518,7 @@ criteria            would                    1
 cultural            bias                     1
 currently           practicing               1
 customers           public                   1
+d                   f                        1
 danger              signals                  1
 danger              unaware                  1
 danger              unsafe                   1
@@ -562,6 +579,9 @@ drop                out                      1
 due                 lower                    1
 during              january                  1
 dynamics            restricting              1
+e                   figure                   1
+e                   l                        1
+e                   where                    1
 each                individual               1
 each                period                   1
 each                year                     1
@@ -601,6 +621,7 @@ effective           licensing                1
 effects             attempted                1
 effects             consumers                1
 effects             effective                1
+effects             h                        1
 effects             workers                  1
 eight               million                  1
 eight               years                    1
@@ -628,6 +649,7 @@ entry               occupation               1
 entry               only                     1
 entry               unpublished              1
 entry               yet                      1
+equal               e                        1
 equal               total                    1
 equals              output                   1
 equals              total                    1
@@ -712,11 +734,14 @@ excludes            workers                  1
 exempts             currently                1
 exodus              workers                  1
 expect              less                     1
+expenses            l                        1
 experience          apprentice               1
 experience          testing                  1
 exploiting          advantage                1
 externalities       associated               1
 externalities       costless                 1
+f                   test                     1
+f                   value                    1
 face                sharply                  1
 factor              unim                     1
 factors             cause                    1
@@ -808,6 +833,7 @@ groups              more                     1
 groups              results                  1
 groups              than                     1
 guarantee           necessary                1
+h                   impact                   1
 had                 previously               1
 had                 similar                  1
 had                 somewhat                 1
@@ -856,6 +882,11 @@ however             many                     1
 however             test                     1
 hurdle              attributes               1
 hypothesis          all                      1
+i                   el                       1
+i                   gain                     1
+i                   introduction             1
+i                   k                        1
+i                   pc                       1
 identical           formally                 1
 identified          thus                     1
 identify            those                    1
@@ -933,16 +964,21 @@ ironically          trade                    1
 irreparable         harm                     1
 issues              licenses                 1
 iv                  licensing                1
+j                   princeton                1
 james               press                    1
 january             through                  1
 job                 training                 1
 jobs                unregulated              1
+joseph              r                        1
 journal             economics                1
 journal             january                  1
 journeymen          electricians             1
 judge               applicant                1
 judged              competent                1
 just                find                     1
+k                   cost                     1
+k                   l                        1
+k                   where                    1
 kalachek            murray                   1
 karen               green                    1
 keith               renner                   1
@@ -951,6 +987,10 @@ knowledge           anatomy                  1
 knowledge           material                 1
 known               immediately              1
 kruger              occupational             1
+l                   more                     1
+l                   vii                      1
+l                   w                        1
+l                   wc                       1
 labor               economics                1
 labor               market                   1
 language            proficiency              1
@@ -1125,6 +1165,8 @@ must                have                     1
 must                pass                     1
 must                return                   1
 must                supplied                 1
+n                   j                        1
+n                   number                   1
 national            association              1
 national            beauty                   1
 native              tongue                   1
@@ -1208,6 +1250,7 @@ only                restrict                 1
 only                taking                   1
 only                those                    1
 opportunities       groups                   1
+optician            s                        1
 ordinary            least                    1
 other               hand                     1
 other               nonprofessional          1
@@ -1224,11 +1267,13 @@ output              effects                  1
 output              restricted               1
 output              retiring                 1
 output              workers                  1
+outside             u                        1
 outside             united                   1
 over                apprentices              1
 over                those                    1
 overinvest          education                1
 overstates          impact                   1
+p                   pq                       1
 paper               based                    1
 paper               considers                1
 paper               focuses                  1
@@ -1249,6 +1294,7 @@ passed              written                  1
 passing             score                    1
 passing             some                     1
 pc                  ec                       1
+pc                  i                        1
 per                 formance                 1
 percent             blacks                   1
 percent             fail                     1
@@ -1264,6 +1310,7 @@ performance         like                     1
 performance         say                      1
 period              long                     1
 period              now                      1
+periods             r                        1
 permitting          test                     1
 persons             who                      1
 petent              practitioners            1
@@ -1297,6 +1344,7 @@ potentially         attractive               1
 potentially         productive               1
 ppfail              age                      1
 ppfail              apprent                  1
+pq                  i                        1
 practical           exam                     1
 practical           examina                  1
 practical           examinations             1
@@ -1332,6 +1380,7 @@ price               say                      1
 price               where                    1
 prices              rises                    1
 prices              welfare                  1
+princeton           n                        1
 princeton           university               1
 printing            office                   1
 prior               examinations             1
@@ -1380,11 +1429,15 @@ quantities          qualities                1
 question            most                     1
 question            whether                  1
 queue               grandfather              1
+queue               i                        1
 queue               ph                       1
 queue               section                  1
+queue               v                        1
 queue               willing                  1
 quite               low                      1
 quite               small                    1
+r                   antos                    1
+r                   discount                 1
 race                may                      1
 race                statistically            1
 race                unrelated                1
@@ -1392,11 +1445,13 @@ raises              entry                    1
 raises              probability              1
 range               from                     1
 raphson             method                   1
+rate                k                        1
 rate                retirements              1
 rates               both                     1
 rates               high                     1
 rather              than                     1
 ratio               index                    1
+ratioa              f                        1
 rationale           licensing                1
 rayack              economic                 1
 reading             ability                  1
@@ -1422,6 +1477,7 @@ reduction           number                   1
 regents             university               1
 registration        education                1
 regression          column                   1
+regressions         b                        1
 regressions         continuous               1
 regressions         pexamscore               1
 regressions         written                  1
@@ -1501,6 +1557,14 @@ rises               when                     1
 rottenberg          economics                1
 routine             tasks                    1
 run                 competitive              1
+s                   ability                  1
+s                   chance                   1
+s                   employer                 1
+s                   exam                     1
+s                   government               1
+s                   james                    1
+s                   savvy                    1
+s                   survey                   1
 safety              preventing               1
 said                necessary                1
 sample              additional               1
@@ -1814,6 +1878,8 @@ used                proxy                    1
 using               newton                   1
 usually             acquire                  1
 usually             candidates               1
+v                   characteristics          1
+values              t                        1
 variable            regressions              1
 variable            sample                   1
 variable            since                    1
@@ -1824,13 +1890,18 @@ variables           evaluated                1
 variables           school                   1
 variables           vector                   1
 various             applicant                1
+vector              x                        1
 very                confident                1
+veteran             s                        1
 vi                  practical                1
 via                 written                  1
 vii                 conclusions              1
 vochs               constant                 1
 vochs               years                    1
 voluntarily         included                 1
+w                   l                        1
+w                   w                        1
+wa                  l                        1
 wa                  wage                     1
 wage                after                    1
 wage                could                    1
@@ -1840,6 +1911,7 @@ wage                wa                       1
 wages               unlicensed               1
 wages               unregulated              1
 washington          public                   1
+washington          u                        1
 wasted              socially                 1
 wasted              training                 1
 wc                  applicant                1
@@ -1868,6 +1940,7 @@ when                entry                    1
 when                examina                  1
 when                good                     1
 where               all                      1
+where               n                        1
 where               output                   1
 whether             any                      1
 whether             attributes               1
@@ -1947,6 +2020,8 @@ written             joseph                   1
 written             portion                  1
 written             practical                1
 written             tests                    1
+x                   because                  1
+x                   e                        1
 year                additional               1
 year                education                1
 year                figures                  1

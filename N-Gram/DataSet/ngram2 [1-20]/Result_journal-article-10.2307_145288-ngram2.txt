@@ -40,6 +40,7 @@ public                 training               5
 reported               table                  5
 subsequent             wage                   5
 tlme                   via                    5
+u                      s                      5
 white                  youth                  5
 average                unemployed             4
 black                  youths                 4
@@ -65,6 +66,7 @@ three                  weeks                  4
 tlme                   coefficients           4
 training               levels                 4
 training               programs               4
+training               t                      4
 unemploy               ment                   4
 unemployment           may                    4
 unemployment           teens                  4
@@ -74,6 +76,7 @@ would                  have                   4
 young                  men                    4
 age                    group                  3
 also                   because                3
+b                      c                      3
 blacks                 whites                 3
 budget                 office                 3
 change                 average                3
@@ -91,6 +94,7 @@ formal                 training               3
 future                 wages                  3
 hourly                 wage                   3
 human                  capital                3
+i                      e                      3
 influence              tlme                   3
 job                    switching              3
 labor                  force                  3
@@ -99,14 +103,19 @@ lower                  subsequent             3
 lower                  wages                  3
 marital                status                 3
 market                 theory                 3
+men                    s                      3
 more                   spells                 3
+one                    s                      3
 one                    spell                  3
 over                   time                   3
 part                   offset                 3
 periods                unemployment           3
 poor                   work                   3
+race                   r                      3
 run                    consequences           3
 run                    costs                  3
+s                      cohort                 3
+s                      department             3
 significant            conventional           3
 spell                  unemployment           3
 state                  university             3
@@ -114,12 +123,14 @@ suggest                least                  3
 taken                  together               3
 tenure                 ten                    3
 than                   average                3
+tlme                   w                      3
 unemployment           during                 3
 unemployment           rate                   3
 unemployment           rates                  3
 unemployment           some                   3
 variables              were                   3
 wage                   differences            3
+wages                  w                      3
 youth                  labor                  3
 youth                  three                  3
 zero                   otherwise              3
@@ -134,12 +145,14 @@ apparent               benefits               2
 area                   unemployment           2
 assistant              professor              2
 average                out                    2
+b                      would                  2
 between                teenage                2
 black                  teenagers              2
 blacks                 benefit                2
 blacks                 suffer                 2
 both                   races                  2
 business               college                2
+c                      d                      2
 calculated             follows                2
 cents                  percent                2
 clear                  whether                2
@@ -162,6 +175,7 @@ dummy                  variable               2
 dummy                  variables              2
 duration               increases              2
 duration               race                   2
+e                      b                      2
 edward                 kalachek               2
 effect                 duration               2
 effect                 may                    2
@@ -206,9 +220,11 @@ independent            variables              2
 indication             importance             2
 individual             differences            2
 individual             has                    2
+individual             s                      2
 industrial             relations              2
 informal               job                    2
 initiative             labor                  2
+j                      piore                  2
 job                    competition            2
 jobs                   which                  2
 least                  squares                2
@@ -224,6 +240,7 @@ market                 problems               2
 may                    have                   2
 may                    reflect                2
 mean                   wage                   2
+michael                j                      2
 model                  all                    2
 model                  would                  2
 more                   detail                 2
@@ -260,6 +277,7 @@ provide                some                   2
 public                 sector                 2
 quality                job                    2
 quite                  small                  2
+r                      nsp                    2
 race                   groups                 2
 racial                 differentials          2
 racial                 interaction            2
@@ -281,6 +299,7 @@ squares                regression             2
 status                 mar                    2
 structural             solutions              2
 substantial            portion                2
+t                      values                 2
 teenage                experience             2
 teenage                unem                   2
 teenagers              jobless                2
@@ -288,6 +307,7 @@ term                   consequences           2
 term                   unemployment           2
 than                   white                  2
 theory                 job                    2
+therefore              b                      2
 things                 equal                  2
 three                  more                   2
 total                  effect                 2
@@ -315,6 +335,8 @@ variables              training               2
 veteran                status                 2
 via                    formal                 2
 vocational             training               2
+w                      b                      2
+w                      i                      2
 wages                  duration               2
 wayne                  stevenson              2
 we                     also                   2
@@ -325,6 +347,7 @@ weeks                  unemployed             2
 well                   market                 2
 were                   calculated             2
 were                   highly                 2
+where                  x                      2
 while                  blacks                 2
 willard                wirtz                  2
 work                   experience             2
@@ -391,6 +414,7 @@ address                issue                  1
 address                problem                1
 address                question               1
 address                specific               1
+administration         u                      1
 adopt                  estimation             1
 adult                  eight                  1
 adult                  youth                  1
@@ -550,6 +574,12 @@ average                finally                1
 average                future                 1
 average                teenager               1
 average                wage                   1
+b                      clear                  1
+b                      doeringer              1
+b                      other                  1
+b                      rather                 1
+b                      reflects               1
+b                      tlme                   1
 background             factors                1
 barringer              cambridge              1
 base                   required               1
@@ -584,6 +614,7 @@ been                   provide                1
 been                   unemployment           1
 been                   use                    1
 been                   used                   1
+beer                   r                      1
 before                 all                    1
 before                 lining                 1
 before                 net                    1
@@ -614,6 +645,7 @@ between                early                  1
 between                fiscal                 1
 between                six                    1
 between                three                  1
+between                w                      1
 between                youth                  1
 bias                   tlme                   1
 bid                    higher                 1
@@ -654,6 +686,7 @@ both                   tlme                   1
 both                   training               1
 boundary               commonly               1
 boundless              resource               1
+brian                  e                      1
 brief                  analysis               1
 briefly                discusses              1
 briefly                example                1
@@ -661,6 +694,10 @@ bringing               total                  1
 broader                evidence               1
 buffalo                assistant              1
 burden                 controlling            1
+c                      heath                  1
+c                      measures               1
+c                      our                    1
+c                      w                      1
 calculated             absolute               1
 calculated             computing              1
 calculated             controlling            1
@@ -711,7 +748,9 @@ clear                  yet                    1
 clearly                do                     1
 clearly                great                  1
 clearly                representative         1
+coefficient            r                      1
 coefficients           becker                 1
+coefficients           d                      1
 coefficients           equation               1
 coefficients           iq                     1
 coefficients           tlme                   1
@@ -819,6 +858,9 @@ current                interest               1
 current                labor                  1
 current                wage                   1
 cussion                namely                 1
+d                      c                      1
+d                      failure                1
+d                      represent              1
 data                   do                     1
 data                   doubt                  1
 data                   from                   1
@@ -859,6 +901,7 @@ derived                two                    1
 despite                apparently             1
 despite                fact                   1
 despite                implication            1
+despite                u                      1
 detail                 conclusion             1
 detail                 next                   1
 determine              effect                 1
@@ -977,6 +1020,10 @@ durations              unemployment           1
 during                 one                    1
 during                 same                   1
 during                 teen                   1
+e                      barringer              1
+e                      becker                 1
+e                      initial                1
+e                      upjohn                 1
 each                   group                  1
 each                   model                  1
 each                   race                   1
@@ -1000,7 +1047,9 @@ easily                 estimated              1
 economic               inquiry                1
 economics              job                    1
 ed                     health                 1
+ed                     r                      1
 ed                     vocational             1
+eds                    s                      1
 education              ed                     1
 education              high                   1
 education              moreover               1
@@ -1099,6 +1148,7 @@ especially             detrimental            1
 essentially            positive               1
 establish              magnitude              1
 estimate               additional             1
+estimate               b                      1
 estimate               effect                 1
 estimate               relationship           1
 estimated              young                  1
@@ -1201,6 +1251,7 @@ experience             youth                  1
 experienced            teen                   1
 experienced            teens                  1
 experiences            has                    1
+experiences            r                      1
 experiencing           any                    1
 experiencing           long                   1
 explanation            differential           1
@@ -1217,6 +1268,7 @@ extent                 which                  1
 external               attitudes              1
 external               individuals            1
 extra                  training               1
+f                      test                   1
 face                   lower                  1
 face                   overwhelming           1
 fact                   blacks                 1
@@ -1360,6 +1412,8 @@ group                  whom                   1
 groups                 analysis               1
 groups                 black                  1
 groups                 individuals            1
+h                      analytical             1
+h                      beer                   1
 had                    any                    1
 had                    examined               1
 had                    low                    1
@@ -1418,6 +1472,7 @@ highest                grade                  1
 highly                 correlated             1
 hill                   labor                  1
 hills                  abstract               1
+hills                  i                      1
 him                    her                    1
 hiring                 practices              1
 his                    current                1
@@ -1463,6 +1518,8 @@ hypothesis             blacks                 1
 hypothesis             discussed              1
 hypothesis             racial                 1
 hypothesis             respect                1
+i                      introduction           1
+i                      x                      1
 identified             part                   1
 identify               all                    1
 identify               government             1
@@ -1474,6 +1531,7 @@ ii                     paper                  1
 ill                    defined                1
 illustrated            figure                 1
 impact                 upon                   1
+imperfections          c                      1
 implication            longitudinal           1
 implications           further                1
 implications           previous               1
@@ -1567,8 +1625,10 @@ inequality             new                    1
 influence              future                 1
 influence              later                  1
 influence              subsequent             1
+influence              t                      1
 influences             exist                  1
 influences             subsequent             1
+influences             w                      1
 influences             work                   1
 information            also                   1
 information            labor                  1
@@ -1580,6 +1640,7 @@ initial                research               1
 initiative             general                1
 innate                 ability                1
 insensitive            choice                 1
+insignificance         r                      1
 insignificance         results                1
 insignificant          also                   1
 insignificant          both                   1
@@ -1640,6 +1701,8 @@ its                    availability           1
 its                    later                  1
 iv                     discussion             1
 iv                     while                  1
+j                      andrisani              1
+j                      mccall                 1
 james                  reston                 1
 jeopardize             employment             1
 job                    change                 1
@@ -1656,6 +1719,7 @@ job                    while                  1
 jobless                new                    1
 jobless                rate                   1
 jobs                   training               1
+john                   j                      1
 judgments              interpretations        1
 kalachek               surveyed               1
 kalachek               youth                  1
@@ -1786,6 +1850,7 @@ lower                  future                 1
 lower                  than                   1
 lower                  training               1
 lower                  turnover               1
+m                      hills                  1
 magnitude              effects                1
 magnitude              order                  1
 magnitude              stability              1
@@ -1823,9 +1888,11 @@ market                 should                 1
 market                 wage                   1
 market                 whether                1
 market                 which                  1
+market                 x                      1
 markets                manpower               1
 marks                  point                  1
 marriage               dependent              1
+mass                   d                      1
 mass                   winthrop               1
 maturation             process                1
 maximum                score                  1
@@ -1881,6 +1948,7 @@ merely                 method                 1
 method                 distorts               1
 method                 generating             1
 method                 incorporates           1
+mich                   w                      1
 michael                borus                  1
 might                  also                   1
 might                  change                 1
@@ -1911,6 +1979,7 @@ model                  simply                 1
 model                  specified              1
 model                  table                  1
 model                  without                1
+modela                 t                      1
 models                 data                   1
 models                 discussed              1
 models                 neither                1
@@ -1961,6 +2030,7 @@ must                   limited                1
 namely                 argued                 1
 namely                 available              1
 narrowed               greater                1
+nation                 s                      1
 national               probability            1
 nature                 jobs                   1
 nature                 magnitude              1
@@ -2077,6 +2147,7 @@ opportunities          more                   1
 opportunities          private                1
 opportunities          self                   1
 opportunities          since                  1
+opportunities          t                      1
 opportunities          taken                  1
 opportunities          thus                   1
 opportunities          training               1
@@ -2120,6 +2191,7 @@ overstated             inability              1
 overstated             influence              1
 overwhelming           problem                1
 own                    judgments              1
+pa                     y                      1
 panel                  eight                  1
 paper                  briefly                1
 papers                 human                  1
@@ -2145,6 +2217,7 @@ particularly           useful                 1
 parts                  much                   1
 pathology              has                    1
 paucity                longitudinal           1
+paul                   j                      1
 pay                    model                  1
 pay                    off                    1
 paying                 jobs                   1
@@ -2184,6 +2257,7 @@ personal               interview              1
 persons                age                    1
 perspective            magnitude              1
 persuasive             since                  1
+peter                  b                      1
 phenomenon             may                    1
 piore                  internal               1
 piore                  jobs                   1
@@ -2206,6 +2280,7 @@ policy                 interest               1
 policy                 issue                  1
 policy                 options                1
 policy                 papers                 1
+policy                 u                      1
 policy                 variable               1
 policy                 washington             1
 pondence               courses                1
@@ -2343,6 +2418,13 @@ quite                  likely                 1
 quite                  limited                1
 quite                  possible               1
 quitting               before                 1
+r                      area                   1
+r                      dur                    1
+r                      e                      1
+r                      implies                1
+r                      reg                    1
+r                      rotter                 1
+r                      variables              1
 race                   blacks                 1
 race                   differential           1
 race                   direct                 1
@@ -2369,6 +2451,7 @@ rate                   constant               1
 rate                   local                  1
 rate                   return                 1
 rate                   through                1
+rate                   x                      1
 rates                  among                  1
 rates                  because                1
 rates                  could                  1
@@ -2482,6 +2565,7 @@ requires               examination            1
 requires               we                     1
 research               continue               1
 research               education              1
+research               h                      1
 research               howard                 1
 research               issue                  1
 research               long                   1
@@ -2516,11 +2600,13 @@ respective             race                   1
 respectively           assistant              1
 respectively           those                  1
 respects               first                  1
+respondent             s                      1
 response               even                   1
 response               moreover               1
 responses              unstable               1
 responsibililites      education              1
 responsibility         pathology              1
+result                 b                      1
 result                 consistent             1
 result                 tlme                   1
 results                analysis               1
@@ -2557,6 +2643,16 @@ rigorously             derived                1
 rotter                 ie                     1
 rotter                 measure                1
 rotter                 score                  1
+s                      eligibility            1
+s                      experience             1
+s                      government             1
+s                      h                      1
+s                      health                 1
+s                      hourly                 1
+s                      prospects              1
+s                      recovery               1
+s                      working                1
+s                      young                  1
 same                   improvement            1
 same                   year                   1
 sample                 alternative            1
@@ -2580,6 +2676,7 @@ school                 health                 1
 school                 improvement            1
 school                 nondegree              1
 school                 nonlabor               1
+school                 t                      1
 school                 teenager               1
 school                 teens                  1
 school                 training               1
@@ -2599,6 +2696,7 @@ section                estimation             1
 section                ii                     1
 section                indirect               1
 section                iv                     1
+section                v                      1
 sector                 finally                1
 sector                 training               1
 sector                 where                  1
@@ -2719,6 +2817,7 @@ spells                 duration               1
 spells                 has                    1
 spells                 increases              1
 spells                 more                   1
+spells                 r                      1
 spells                 since                  1
 spells                 taking                 1
 spells                 teenage                1
@@ -2749,6 +2848,7 @@ status                 most                   1
 status                 vet                    1
 step                   estimation             1
 step                   filling                1
+stephen                m                      1
 steven                 lippman                1
 stevenson              finds                  1
 stevenson              relationship           1
@@ -2799,6 +2899,7 @@ summary                conclusions            1
 summary                findings               1
 support                concern                1
 support                inter                  1
+support                r                      1
 survey                 week                   1
 surveyed               literature             1
 surveys                can                    1
@@ -2813,6 +2914,18 @@ switching              search                 1
 symbol                 hourly                 1
 systematic             research               1
 systembecker           hills                  1
+t                      c                      1
+t                      health                 1
+t                      independent            1
+t                      issue                  1
+t                      measures               1
+t                      region                 1
+t                      represents             1
+t                      subsequent             1
+t                      t                      1
+t                      tlme                   1
+t                      well                   1
+t                      x                      1
 table                  mean                   1
 take                   advantage              1
 take                   following              1
@@ -2820,6 +2933,7 @@ taken                  account                1
 taken                  from                   1
 taking                 value                  1
 tastes                 may                    1
+teen                   i                      1
 teen                   years                  1
 teenage                group                  1
 teenage                un                     1
@@ -2840,6 +2954,7 @@ teens                  would                  1
 teens                  youths                 1
 telephone              interviews             1
 ten                    however                1
+ten                    t                      1
 ten                    wages                  1
 ten                    weeks                  1
 tend                   create                 1
@@ -2870,7 +2985,9 @@ test                   hypotheses             1
 test                   hypothesis             1
 test                   would                  1
 tested                 both                   1
+tested                 h                      1
 than                   adults                 1
+than                   b                      1
 than                   blacks                 1
 than                   employment             1
 than                   exclude                1
@@ -2937,14 +3054,17 @@ tivity                 differences            1
 tlme                   affects                1
 tlme                   future                 1
 tlme                   generally              1
+tlme                   i                      1
 tlme                   now                    1
 tlme                   other                  1
 tlme                   part                   1
 tlme                   particular             1
 tlme                   reader                 1
 tlme                   subsequent             1
+tlme                   t                      1
 tlme                   training               1
 tlme                   unfortunately          1
+tlme                   z                      1
 together               factors                1
 together               results                1
 together               spells                 1
@@ -3041,6 +3161,7 @@ unemployment           average                1
 unemployment           blacks                 1
 unemployment           common                 1
 unemployment           current                1
+unemployment           d                      1
 unemployment           declines               1
 unemployment           diminishes             1
 unemployment           do                     1
@@ -3057,6 +3178,7 @@ unemployment           government             1
 unemployment           harmful                1
 unemployment           has                    1
 unemployment           however                1
+unemployment           i                      1
 unemployment           improves               1
 unemployment           influence              1
 unemployment           influences             1
@@ -3118,6 +3240,8 @@ useful                 abecker                1
 useful                 know                   1
 using                  expanded               1
 utilizing              data                   1
+v                      presents               1
+v                      summary                1
 values                 creating               1
 values                 weighted               1
 variable               coded                  1
@@ -3155,6 +3279,7 @@ variables              suggest                1
 variables              support                1
 variables              trivial                1
 variables              would                  1
+variablesa             n                      1
 variety                control                1
 vector                 control                1
 vectors                control                1
@@ -3170,6 +3295,16 @@ viable                 structural             1
 viewpoints             stated                 1
 virtue                 increased              1
 vs                     hi                     1
+w                      after                  1
+w                      al                     1
+w                      associated             1
+w                      constant               1
+w                      drawing                1
+w                      e                      1
+w                      marital                1
+w                      only                   1
+w                      tlme                   1
+w                      w                      1
 wage                   also                   1
 wage                   equation               1
 wage                   gain                   1
@@ -3206,6 +3341,7 @@ washington             con                    1
 washington             congressional          1
 washington             institute              1
 washington             republic               1
+washington             u                      1
 we                     able                   1
 we                     adopt                  1
 we                     assume                 1
@@ -3375,6 +3511,11 @@ would                  tend                   1
 would                  understate             1
 would                  understated            1
 would                  useful                 1
+x                      figure                 1
+x                      vector                 1
+x                      x                      1
+x                      z                      1
+y                      were                   1
 year                   period                 1
 year                   results                1
 years                  adult                  1
@@ -3435,4 +3576,6 @@ youths                 do                     1
 youths                 most                   1
 youths                 suffer                 1
 youths                 three                  1
+z                      vectors                1
+z                      where                  1
 zero                   unfortunately          1

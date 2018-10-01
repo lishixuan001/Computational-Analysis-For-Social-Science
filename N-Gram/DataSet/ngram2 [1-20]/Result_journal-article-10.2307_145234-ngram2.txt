@@ -4,6 +4,7 @@ mental               illness              23
 federal              employees            22
 insurance            coverage             18
 blue                 cross                15
+u                    s                    15
 bandwagon            effects              13
 health               benefits             13
 health               care                 13
@@ -82,6 +83,7 @@ percent              total                4
 physical             illness              4
 private              mental               4
 psychiatric          unit                 4
+psychiatrist         s                    4
 rather               than                 4
 regier               goldberg             4
 resources            table                4
@@ -117,6 +119,7 @@ experi               ence                 3
 extent               treatment            3
 generous             coverage             3
 goldberg             taube                3
+group                s                    3
 have                 been                 3
 health               administration       3
 hospital             expenses             3
@@ -133,12 +136,14 @@ nonfederal           general              3
 other                physicians           3
 outpatient           basis                3
 outpatient           coverage             3
+patient              s                    3
 patients             seen                 3
 percent              provided             3
 percent              were                 3
 prepaid              groups               3
 price                effect               3
 psycho               therapy              3
+s                    population           3
 same                 above                3
 sector               total                3
 seek                 care                 3
@@ -147,6 +152,7 @@ sensitive            insurance            3
 sex                  race                 3
 should               paid                 3
 some                 coverage             3
+someone              s                    3
 state                county               3
 survey               data                 3
 than                 demand               3
@@ -185,7 +191,9 @@ benefits             were                 2
 birth                marital              2
 brief                history              2
 buy                  more                 2
+c                    price                2
 care                 federal              2
+care                 u                    2
 care                 utilization          2
 change               coinsurance          2
 coinsurance          rate                 2
@@ -204,6 +212,8 @@ coverage             supply               2
 coverage             utilization          2
 covered              hospital             2
 cross                commercial           2
+d                    goldberg             2
+d                    regier               2
 days                 lifetime             2
 demand               bandwagon            2
 demand               general              2
@@ -234,6 +244,7 @@ first                contact              2
 form                 extent               2
 full                 coverage             2
 fully                insured              2
+g                    mcguire              2
 greater              than                 2
 group                nhi                  2
 grow                 over                 2
@@ -251,6 +262,8 @@ hospital             insurance            2
 hospital             psychiatric          2
 hospitals            private              2
 how                  insurance            2
+i                    d                    2
+i                    journal              2
 ignorance            irrationality        2
 illness              coverage             2
 illness              generally            2
@@ -260,6 +273,7 @@ impact               utilization          2
 increase             probability          2
 increase             without              2
 increased            visits               2
+individual           s                    2
 information          service              2
 informed             consent              2
 inpatient            basis                2
@@ -280,6 +294,7 @@ jis                  data                 2
 joint                information          2
 journal              psychiatry           2
 know                 very                 2
+l                    s                    2
 length               treatment            2
 less                 than                 2
 level                significance         2
@@ -329,6 +344,7 @@ parts                mental               2
 patients             made                 2
 percent              level                2
 percent              mcguire              2
+percent              u                    2
 percent              visits               2
 physical             conditions           2
 physician            services             2
@@ -338,6 +354,7 @@ population           mentally             2
 possibilities        treatment            2
 practice             general              2
 predicted            increases            2
+president            s                    2
 price                effects              2
 price                insurance            2
 private              psychiatrists        2
@@ -366,12 +383,21 @@ race                 country              2
 ranging              from                 2
 redistribute         income               2
 reed                 myers                2
+reed                 s                    2
+regier               i                    2
 region               country              2
 remains              stable               2
 reported             table                2
 research             demand               2
 response             insurance            2
 responsiveness       demand               2
+s                    age                  2
+s                    commission           2
+s                    demand               2
+s                    estimates            2
+s                    reed                 2
+s                    sex                  2
+s                    survey               2
 see                  mcguire              2
 see                  table                2
 seeing               psychiatrist         2
@@ -387,6 +413,7 @@ services             under                2
 severity             inpatient            2
 shift                demand               2
 should               benefits             2
+skeptic              s                    2
 so                   many                 2
 social               attitudes            2
 some                 conclusions          2
@@ -402,6 +429,7 @@ tendency             demand               2
 than                 did                  2
 than                 one                  2
 think                mentally             2
+thomas               g                    2
 three                quarters             2
 time                 even                 2
 total                organized            2
@@ -476,6 +504,7 @@ admitted             institutions         1
 adult                population           1
 adults               enrolled             1
 adults               treatment            1
+adults               u                    1
 advantage            disaggregated        1
 advisers             actual               1
 advisers             much                 1
@@ -614,12 +643,20 @@ authority            apa                  1
 available            brief                1
 available            federal              1
 available            many                 1
+available            u                    1
 average              insurance            1
 average              length               1
 average              only                 1
 average              utilization          1
 avoid                settings             1
 avoided              demand               1
+b                    coverage             1
+b                    liptzin              1
+b                    mckinley             1
+b                    nhi                  1
+b                    putting              1
+b                    s                    1
+b                    significantly        1
 back                 psychiatric          1
 back                 quickly              1
 back                 utilization          1
@@ -755,6 +792,12 @@ burden               roughly              1
 bureau               labor                1
 bution               well                 1
 buying               more                 1
+c                    f                    1
+c                    hustead              1
+c                    pure                 1
+c                    sponsored            1
+c                    taube                1
+c                    z                    1
 calculations         based                1
 california           following            1
 call                 specialized          1
@@ -832,6 +875,7 @@ centers              state                1
 certain              coverage             1
 certainly            higher               1
 certainly            including            1
+cg                   z                    1
 champus              some                 1
 change               atti                 1
 change               extent               1
@@ -859,6 +903,7 @@ charges              noticeably           1
 charges              paid                 1
 charges              same                 1
 checked              inclusion            1
+children             s                    1
 choice               about                1
 choice               coverage             1
 choice               made                 1
@@ -1125,6 +1170,8 @@ cutback              benefits             1
 cutback              may                  1
 cutback              more                 1
 cutbacks             coverage             1
+d                    c                    1
+d                    we                   1
 danforth             income               1
 data                 comes                1
 data                 estimate             1
@@ -1305,6 +1352,9 @@ dual                 point                1
 during               depression           1
 during               early                1
 during               world                1
+e                    c                    1
+e                    demand               1
+e                    g                    1
 each                 last                 1
 each                 other                1
 each                 patient              1
@@ -1414,6 +1464,7 @@ enrolled             bc                   1
 enrolled             blue                 1
 enrolled             high                 1
 enrolled             prepaid              1
+enrolled             u                    1
 enrollees            from                 1
 entitled             barring              1
 entitled             description          1
@@ -1451,8 +1502,10 @@ estimates            were                 1
 estimation           demand               1
 estimation           future               1
 esting               comparisons          1
+ettect               c                    1
 evalua               tion                 1
 evaluation           alcohol              1
+evelyn               s                    1
 even                 higher               1
 even                 more                 1
 even                 tentative            1
@@ -1517,6 +1570,7 @@ facilities           primarily            1
 facilities           roughly              1
 facilities           total                1
 fact                 nhi                  1
+facto                u                    1
 factor               may                  1
 factors              among                1
 factors              clearly              1
@@ -1619,9 +1673,12 @@ frequently           conducted            1
 frequently           than                 1
 fringe               benefits             1
 from                 attack               1
+from                 b                    1
 from                 broad                1
+from                 c                    1
 from                 clinically           1
 from                 correction           1
+from                 d                    1
 from                 equal                1
 from                 estimated            1
 from                 experience           1
@@ -1640,12 +1697,14 @@ from                 survey               1
 from                 table                1
 from                 third                1
 from                 those                1
+from                 u                    1
 from                 welfare              1
 from                 whom                 1
 from                 zero                 1
 full                 demand               1
 full                 discussion           1
 full                 equality             1
+full                 i                    1
 full                 price                1
 full                 results              1
 function             than                 1
@@ -1655,6 +1714,7 @@ funding              services             1
 further              evidence             1
 future               number               1
 future               visits               1
+g                    mckinlay             1
 gaining              coverage             1
 gains                from                 1
 gener                ous                  1
@@ -1681,6 +1741,7 @@ go                   unserved             1
 go                   untreated            1
 goals                prepaid              1
 going                rand                 1
+goldberg             c                    1
 goldberg             health               1
 good                 statistics           1
 goods                services             1
@@ -1703,6 +1764,7 @@ group                overall              1
 group                practices            1
 group                settings             1
 group                typically            1
+group                u                    1
 group                uninsured            1
 group                varied               1
 groups               achieve              1
@@ -1726,6 +1788,7 @@ growth               commercial           1
 growth               costs                1
 growth               insurance            1
 guess                average              1
+h                    leibenstein          1
 had                  been                 1
 had                  equal                1
 had                  family               1
@@ -1780,6 +1843,7 @@ health               early                1
 health               economics            1
 health               federal              1
 health               full                 1
+health               i                    1
 health               maintenance          1
 health               may                  1
 health               officials            1
@@ -1797,8 +1861,10 @@ health               system               1
 health               utilization          1
 heavy                use                  1
 heckman              common               1
+heckman              s                    1
 held                 artificially         1
 held                 contract             1
+help                 e                    1
 help                 mental               1
 help                 seeking              1
 helped               selected             1
@@ -1884,7 +1950,16 @@ however              led                  1
 however              public               1
 however              states               1
 however              typically            1
+hustead              s                    1
 hustead              sharf                1
+i                    ettect               1
+i                    know                 1
+i                    make                 1
+i                    note                 1
+i                    p                    1
+i                    pay                  1
+i                    used                 1
+i                    would                1
 identify             blue                 1
 ignorance            fear                 1
 ignored              individual           1
@@ -2049,6 +2124,7 @@ inpatient            services             1
 inpatient            settings             1
 inpatient            utilization          1
 inpatients           total                1
+instead              i                    1
 insti                tute                 1
 institute            discriminatory       1
 institute            mental               1
@@ -2139,6 +2215,9 @@ its                  report               1
 its                  treatment            1
 itself               however              1
 itself               recognized           1
+j                    b                    1
+j                    krizay               1
+j                    marmor               1
 james                heckman              1
 jeff                 harris               1
 jis                  american             1
@@ -2147,7 +2226,9 @@ jis                  had                  1
 jis                  marmor               1
 jis                  survey               1
 john                 krizay               1
+jones                t                    1
 jones                vischi               1
+joseph               p                    1
 journal              economics            1
 judged               mentally             1
 judged               needy                1
@@ -2157,6 +2238,8 @@ july                 august               1
 just                 approximately        1
 justifiable          estimates            1
 justification        given                1
+k                    jones                1
+kennedy              s                    1
 key                  features             1
 kind                 outside              1
 kinds                can                  1
@@ -2166,7 +2249,9 @@ know                 what                 1
 knowledge            effects              1
 known                about                1
 krizay               concludes            1
+krizay               s                    1
 krizay               utilization          1
+l                    scheidemandel        1
 labor                statistics           1
 large                exists               1
 large                how                  1
@@ -2243,6 +2328,7 @@ limits               pattern              1
 limits               pro                  1
 limits               written              1
 line                 income               1
+liptzin              d                    1
 liptzin              regier               1
 literature           financing            1
 literature           past                 1
@@ -2299,6 +2385,7 @@ makes                may                  1
 makes                total                1
 makes                utilization          1
 management           may                  1
+management           s                    1
 mandated             health               1
 manner               professionals        1
 many                 desirable            1
@@ -2345,6 +2432,7 @@ may                  showing              1
 may                  very                 1
 mcguire              abstract             1
 mcguire              financing            1
+mcguire              i                    1
 mcguire              study                1
 mckinley             social               1
 md                   nimh                 1
@@ -2470,6 +2558,8 @@ must                 built                1
 must                 obtain               1
 must                 pay                  1
 my                   buying               1
+myers                p                    1
+n                    snyder               1
 national             association          1
 national             insti                1
 national             institute            1
@@ -2505,6 +2595,7 @@ newly                willing              1
 news                 september            1
 next                 few                  1
 nhi                  any                  1
+nhi                  c                    1
 nhi                  decision             1
 nhi                  decrease             1
 nhi                  demand               1
@@ -2526,6 +2617,7 @@ nhi                  tacit                1
 nhi                  took                 1
 nhi                  when                 1
 nhi                  would                1
+nhi                  x                    1
 nimh                 surveys              1
 nition               problem              1
 nized                some                 1
@@ -2554,6 +2646,7 @@ number               respects             1
 number               studies              1
 nursing              home                 1
 nursing              homes                1
+o                    demand               1
 objection            applicability        1
 observed             outcomes             1
 obtain               further              1
@@ -2683,6 +2776,8 @@ overutilization      deductibles          1
 own                  best                 1
 own                  condition            1
 own                  interests            1
+p                    l                    1
+p                    newhouse             1
 packages             coinsurance          1
 paid                 after                1
 paid                 insurance            1
@@ -2695,6 +2790,7 @@ paper                length               1
 paper                our                  1
 paper                revision             1
 paper                surveys              1
+part                 b                    1
 part                 coverage             1
 part                 early                1
 part                 growth               1
@@ -2722,6 +2818,7 @@ patients             decisions            1
 patients             desire               1
 patients             entitled             1
 patients             family               1
+patients             i                    1
 patients             including            1
 patients             joint                1
 patients             judgment             1
@@ -2793,6 +2890,7 @@ period               physician            1
 person               nel                  1
 person               per                  1
 person               psychiatric          1
+person               s                    1
 personal             advisers             1
 personal             factors              1
 personality          reconstruc           1
@@ -2962,8 +3060,11 @@ pressure             wage                 1
 presumptive          sign                 1
 pretesting           february             1
 previous             section              1
+price                b                    1
 price                bandwagon            1
 price                care                 1
+price                i                    1
+price                o                    1
 price                patient              1
 price                services             1
 price                someone              1
@@ -3043,6 +3144,7 @@ provided             population           1
 provided             psychiatrists        1
 provider             do                   1
 provider             influ                1
+provider             s                    1
 providers            private              1
 providers            psychiatrists        1
 provides             care                 1
@@ -3225,6 +3327,7 @@ responsive           one                  1
 responsive           price                1
 responsiveness       also                 1
 rest                 society              1
+rest                 u                    1
 restrict             payment              1
 restrict             psychiatric          1
 restrictions         visits               1
@@ -3262,6 +3365,35 @@ rough                probably             1
 roughly              proportional         1
 roughly              reversed             1
 round                reaction             1
+s                    adult                1
+s                    basic                1
+s                    coverage             1
+s                    during               1
+s                    enrolled             1
+s                    entire               1
+s                    govem                1
+s                    has                  1
+s                    health               1
+s                    herrington           1
+s                    influence            1
+s                    insurance            1
+s                    last                 1
+s                    management           1
+s                    mental               1
+s                    myers                1
+s                    overall              1
+s                    private              1
+s                    problem              1
+s                    rockville            1
+s                    s                    1
+s                    second               1
+s                    sharfstein           1
+s                    staffing             1
+s                    subspeci             1
+s                    treatment            1
+s                    utilization          1
+s                    view                 1
+s                    willingness          1
 salary               rather               1
 same                 basis                1
 same                 comparing            1
@@ -3280,6 +3412,7 @@ saying               anything             1
 schedule             follows              1
 scheidemandel        health               1
 schizophrenia        almost               1
+scitovsky            n                    1
 scitovsky            snyder               1
 scope                consumer             1
 second               demand               1
@@ -3406,6 +3539,7 @@ setting              form                 1
 setting              persons              1
 setting              predictions          1
 setting              shape                1
+setting              u                    1
 settings             all                  1
 settings             altogether           1
 settings             care                 1
@@ -3452,6 +3586,7 @@ shows                blue                 1
 shows                individual           1
 shows                persons              1
 sign                 inefficiency         1
+significance         b                    1
 significance         distributional       1
 significant          choice               1
 significant          disorder             1
@@ -3605,6 +3740,7 @@ survey               did                  1
 survey               geographically       1
 survey               group                1
 survey               had                  1
+survey               i                    1
 survey               results              1
 survey               uninsured            1
 surveyed             representing         1
@@ -3621,6 +3757,9 @@ system               resource             1
 system               years                1
 systematic           over                 1
 systematically       from                 1
+t                    c                    1
+t                    t                    1
+t                    vischi               1
 taboos               born                 1
 tacit                admission            1
 taken                part                 1
@@ -3678,6 +3817,7 @@ therapy              reed                 1
 therapy              widely               1
 thereby              become               1
 thereby              limit                1
+thesemcguire         i                    1
 thing                do                   1
 think                bandwagon            1
 third                demand               1
@@ -3784,6 +3924,7 @@ treatment            setting              1
 treatment            themselves           1
 treatment            thereby              1
 treatment            treatment            1
+treatment            u                    1
 treatment            undergo              1
 treatment            were                 1
 treatment            where                1
@@ -3795,6 +3936,7 @@ trivial              commodities          1
 true                 decision             1
 true                 present              1
 trunca               tion                 1
+tti                  c                    1
 tudes                many                 1
 turbulent            public               1
 tute                 mental               1
@@ -3900,6 +4042,7 @@ utilization          services             1
 utilization          statistics           1
 utilization          washington           1
 utilization          would                1
+v                    psychiatric          1
 va                   hospi                1
 va                   hospitals            1
 va                   neuropsychiatric     1
@@ -3958,6 +4101,8 @@ wagon                effect               1
 war                  ii                   1
 wash                 ington               1
 washington           alcohol              1
+washington           d                    1
+washington           u                    1
 way                  demand               1
 way                  mental               1
 way                  more                 1
@@ -4031,6 +4176,7 @@ while                insured              1
 while                our                  1
 while                outpatient           1
 while                significant          1
+while                u                    1
 who                  breaks               1
 who                  demanding            1
 who                  do                   1
@@ -4067,6 +4213,7 @@ work                 carry                1
 work                 demand               1
 work                 effects              1
 work                 goods                1
+work                 i                    1
 work                 scitovsky            1
 worked               out                  1
 workers              other                1
@@ -4092,6 +4239,7 @@ would                tend                 1
 write                up                   1
 written              most                 1
 wrong                thing                1
+x                    e                    1
 year                 example              1
 year                 inpatient            1
 year                 its                  1
@@ -4110,3 +4258,4 @@ years                regier               1
 years                toward               1
 yet                  overcome             1
 york                 various              1
+z                    cg                   1

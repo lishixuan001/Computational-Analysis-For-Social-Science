@@ -8,13 +8,20 @@ Updated filtering constraints. Now enables:
 - Filter out entry begins/ends with a number
 - Filter out entry is a single letter (unigram only)
 
+
+### 9/30 ###
+Modified filtering constraints. Now enables:
+- All ngrams filtering
+
+
 ### Plans ###
-- Change a bug that 2-grams also filters out single letter words
-- Writes specifically for ngram3 (now combined with ngram2)
 - Make ngram DataFrames formatted and be prepared for matching trials
 
 
+### Problems ###
+- For 2-gram and 3-gram, there are too many single-letter words, recommend doing smarter filtering or excluding single-letter words for n-grams. 
 
 
 
 
+ 

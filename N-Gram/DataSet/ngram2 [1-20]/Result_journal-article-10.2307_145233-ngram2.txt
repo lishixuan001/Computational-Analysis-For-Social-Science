@@ -31,6 +31,7 @@ new                        approaches                 3
 nonprofit                  organizations              3
 regulatory                 mechanisms                 3
 treating                   mentally                   3
+weisbrod                   s                          3
 about                      appropriate                2
 affected                   fact                       2
 all                        five                       2
@@ -55,6 +56,7 @@ five                       conference                 2
 forces                     affecting                  2
 from                       long                       2
 further                    discussion                 2
+g                          mcguire                    2
 government                 agencies                   2
 have                       been                       2
 have                       faced                      2
@@ -83,6 +85,8 @@ professor                  economics                  2
 providers                  mental                     2
 psychia                    trists                     2
 regarding                  mental                     2
+s                          conference                 2
+s                          paper                      2
 see                        weisbrod                   2
 service                    provider                   2
 settings                   which                      2
@@ -91,6 +95,7 @@ technical                  change                     2
 term                       hospitalization            2
 therapeutic                approaches                 2
 third                      party                      2
+thomas                     g                          2
 treat                      ment                       2
 treatment                  approaches                 2
 what                       constitutes                2
@@ -486,6 +491,7 @@ does                       process                    1
 domi                       nated                      1
 dominance                  challenged                 1
 dominated                  psychia                    1
+don                        t                          1
 done                       whether                    1
 doubt                      dwarfing                   1
 down                       expenditures               1
@@ -667,6 +673,7 @@ governmental               regulatory                 1
 governments                central                    1
 governments                federal                    1
 great                      growing                    1
+gresham                    s                          1
 grew                       out                        1
 growing                    many                       1
 growing                    political                  1
@@ -929,6 +936,7 @@ may                        regarded                   1
 may                        well                       1
 may                        work                       1
 mcguire                    new                        1
+mcguire                    s                          1
 mcguire                    weisbrod                   1
 mean                       difficulties               1
 meantime                   public                     1
@@ -1060,6 +1068,7 @@ papers                     identified                 1
 papers                     point                      1
 papers                     presented                  1
 papers                     two                        1
+papers                     w                          1
 part                       health                     1
 particular                 counterfactual             1
 particular                 mentally                   1
@@ -1073,6 +1082,7 @@ patient                    generally                  1
 patient                    incentives                 1
 patient                    often                      1
 patient                    principal                  1
+patient                    s                          1
 patients                   agents                     1
 patients                   economists                 1
 patients                   rights                     1
@@ -1086,7 +1096,9 @@ peer                       review                     1
 pendence                   needed                     1
 perceived                  benefits                   1
 percent                    national                   1
+percent                    u                          1
 period                     larger                     1
+person                     s                          1
 personnel                  mix                        1
 persons                    from                       1
 persons                    had                        1
@@ -1126,6 +1138,7 @@ precisely                  commodites                 1
 predictable                ways                       1
 presence                   substantial                1
 presented                  here                       1
+president                  s                          1
 pressure                   license                    1
 pressure                   provide                    1
 pressures                  deinstitutionalization     1
@@ -1304,6 +1317,12 @@ rooming                    use                        1
 run                        institutions               1
 run                        mental                     1
 running                    through                    1
+s                          attention                  1
+s                          commission                 1
+s                          income                     1
+s                          lack                       1
+s                          law                        1
+s                          population                 1
 same                       outputs                    1
 same                       period                     1
 same                       time                       1
@@ -1424,6 +1443,7 @@ surely                     commodity                  1
 surprisingly               therefore                  1
 susceptible                useful                     1
 suspicious                 mental                     1
+t                          fit                        1
 tage                       fact                       1
 take                       advan                      1
 tance                      governmental               1
@@ -1513,6 +1533,7 @@ two                        important                  1
 two                        papers                     1
 type                       evaluation                 1
 types                      therapists                 1
+u                          s                          1
 ultimate                   benefits                   1
 unavoidable                do                         1
 uncertain                  about                      1
@@ -1569,7 +1590,9 @@ vis                        particular                 1
 vis                        vis                        1
 volume                     forces                     1
 volume                     further                    1
+w                          lee                        1
 wallack                    focuses                    1
+wallack                    s                          1
 wary                       offering                   1
 washington                 national                   1
 ways                       fundamental                1

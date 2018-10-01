@@ -71,6 +71,7 @@ have                had                  4
 important           note                 4
 inner               city                 4
 involuntary         transfers            4
+j                   murnane              4
 likely              transfer             4
 midcity             schools              4
 more                important            4
@@ -85,6 +86,7 @@ percentage          white                4
 predicted           termination          4
 rate                teachers             4
 schools             serving              4
+teacher             s                    4
 teacher             seniority            4
 teacher             taught               4
 teachers            have                 4
@@ -98,6 +100,7 @@ year                teacher              4
 year                teachers             4
 allow               us                   3
 average             values               3
+b                   our                  3
 capital             model                3
 careers             teachers             3
 change              student              3
@@ -124,6 +127,7 @@ left                midcity              3
 levels              seniority            3
 logit               analysis             3
 market              conditions           3
+mccall              s                    3
 most                districts            3
 new                 teachers             3
 number              teachers             3
@@ -137,6 +141,7 @@ period              predicted            3
 periods             holding              3
 probability         first                3
 relationship        between              3
+richard             j                    3
 rules               governing            3
 rules               state                3
 school              another              3
@@ -242,8 +247,10 @@ has                 affected             2
 has                 taught               2
 he                  she                  2
 higher              ses                  2
+hobson              v                    2
 however             further              2
 hundreds            students             2
+i                   journal              2
 impact              probability          2
 impact              school               2
 impact              teacher              2
@@ -278,6 +285,7 @@ many                teachers             2
 market              rules                2
 midcity             definition           2
 midcity             officials            2
+midcity             s                    2
 midcity             school               2
 middle              class                2
 mobility            teachers             2
@@ -296,6 +304,7 @@ opportunities       voluntary            2
 other               than                 2
 our                 schools              2
 over                period               2
+p                   y                    2
 pattern             declining            2
 pattern             teacher              2
 patterns            mobility             2
@@ -362,7 +371,9 @@ students            school               2
 students            should               2
 students            than                 2
 studies             yale                 2
+t                   test                 2
 table               indicate             2
+tailed              t                    2
 teacher             left                 2
 teacher             may                  2
 teacher             shortage             2
@@ -400,6 +411,7 @@ urban               school               2
 used                examine              2
 using               logit                2
 utility             increasing           2
+v                   hansen               2
 variable            indicating           2
 variables           included             2
 we                  estimated            2
@@ -415,6 +427,7 @@ which               experienced          2
 which               more                 2
 who                 left                 2
 yale                university           2
+year                j                    2
 years               experience           2
 years               period               2
 years               teacher              2
@@ -515,6 +528,7 @@ assignments         recalled             1
 assistance          provided             1
 assumption          realistic            1
 assumption          transfers            1
+asymptotic          t                    1
 attached            each                 1
 attempting          improve              1
 attempts            integrate            1
@@ -535,6 +549,7 @@ avoid               making               1
 balance             since                1
 ballinger           publishing           1
 barbara             phillips             1
+barbara             r                    1
 bargained           teachers             1
 bargaining          rules                1
 based               performed            1
@@ -602,6 +617,10 @@ budget              reductions           1
 bump                teachers             1
 bumped              more                 1
 bumped              teachers             1
+c                   ilfj                 1
+c                   percentage           1
+c                   thurow               1
+c2j                 m                    1
 calculated          multiplying          1
 cambridge           mass                 1
 cannot              use                  1
@@ -653,6 +672,7 @@ children            has                  1
 children            have                 1
 children            learn                1
 children            reason               1
+children            s                    1
 children            same                 1
 children            school               1
 children            thus                 1
@@ -673,8 +693,10 @@ coefficient         indicating           1
 coefficient         negative             1
 coefficient         term                 1
 coefficient         variable             1
+coefficients        b                    1
 coefficients        calculated           1
 coefficients        logit                1
+coefficients        p                    1
 collective          bargaining           1
 collectively        bargained            1
 collinear           midcity              1
@@ -743,6 +765,8 @@ cular               mix                  1
 current             account              1
 current             position             1
 cuts                school               1
+d                   c                    1
+d                   d                    1
 data                distinguish          1
 data                our                  1
 data                race                 1
@@ -971,6 +995,7 @@ explored            variety              1
 extend              greenberg            1
 extent              increase             1
 extremely           labor                1
+f                   supp                 1
 fact                however              1
 fact                logit                1
 fact                most                 1
@@ -1017,6 +1042,7 @@ flexibility         increase             1
 flexibility         school               1
 following           hypothesis           1
 following           steps                1
+follows             j                    1
 forced              accept               1
 forced              become               1
 forced              transfer             1
@@ -1131,6 +1157,11 @@ hypotheses          concerning           1
 hypotheses          teacher              1
 hypotheses          we                   1
 hypothesis          we                   1
+i                   appreciate           1
+i                   q                    1
+i                   regulations          1
+i                   sli                  1
+i                   would                1
 ij                  percentage           1
 ilfj                c2j                  1
 illustrate          changes              1
@@ -1231,6 +1262,11 @@ intuitively         seems                1
 inversely           related              1
 investments         getting              1
 ith                 teacher              1
+j                   average              1
+j                   i                    1
+j                   institution          1
+j                   j                    1
+j                   sli                  1
 job                 category             1
 job                 security             1
 job                 training             1
@@ -1279,6 +1315,7 @@ less                ability              1
 less                attractive           1
 less                flexibility          1
 less                seniority            1
+lester              c                    1
 letter              teachers             1
 level               more                 1
 lies                details              1
@@ -1400,9 +1437,11 @@ murnane             abstract             1
 murnane             alicia               1
 murnane             barbara              1
 murnane             impact               1
+murnane             j                    1
 must                accept               1
 must                change               1
 must                placed               1
+n                   j                    1
 national            institute            1
 nationwide          phenomenon           1
 natural             attrition            1
@@ -1528,6 +1567,7 @@ particularly        difficult            1
 particularly        rapid                1
 particularly        serious              1
 partly              due                  1
+patrick             j                    1
 pattern             described            1
 pattern             enrollment           1
 pattern             findings             1
@@ -1635,6 +1675,7 @@ pretext             enrollment           1
 primarily           inexperienced        1
 primarily           transfers            1
 primary             determinants         1
+princeton           n                    1
 priori              determine            1
 proba               bility               1
 probability         during               1
@@ -1671,12 +1712,14 @@ pupil               instructional        1
 pupil               new                  1
 purpose             paper                1
 pursuant            contract             1
+q                   til                  1
 quality             education            1
 quality             positions            1
 question            however              1
 quite               low                  1
 quite               recently             1
 quite               unexpected           1
+r                   phillips             1
 race                each                 1
 race                individual           1
 race                known                1
@@ -1817,6 +1860,16 @@ rules               reflect              1
 rules               terminations         1
 rules               violate              1
 rules               would                1
+s                   analysis             1
+s                   cross                1
+s                   decision             1
+s                   education            1
+s                   finding              1
+s                   public               1
+s                   record               1
+s                   right                1
+s                   schools              1
+s                   seniority            1
 salaries            based                1
 salaries            constitute           1
 same                category             1
@@ -1890,6 +1943,7 @@ schools             total                1
 schools             while                1
 schools             who                  1
 science             research             1
+scott               i                    1
 second              trend                1
 section             paper                1
 sectional           analysis             1
@@ -1901,6 +1955,7 @@ see                 thurow               1
 seems               linear               1
 selectively         recruited            1
 seniority           according            1
+seniority           c                    1
 seniority           change               1
 seniority           displayed            1
 seniority           experienced          1
@@ -2079,6 +2134,7 @@ system              would                1
 system              year                 1
 systematic          change               1
 systems             higher               1
+t                   ratios               1
 table               shows                1
 take                account              1
 take                advantage            1
@@ -2218,6 +2274,7 @@ thus                combination          1
 thus                criterion            1
 thus                even                 1
 thus                has                  1
+til                 z                    1
 time                hiring               1
 time                interval             1
 time                probability          1
@@ -2228,8 +2285,10 @@ timing              disposition          1
 tion                increasingly         1
 tion                teaching             1
 tions               discussed            1
+title               i                    1
 tive                ses                  1
 together            interpreted          1
+tomurnane           i                    1
 tory                power                1
 total               school               1
 total               student              1
@@ -2317,6 +2376,7 @@ unhappy             positions            1
 unions              school               1
 unions              some                 1
 unit                observation          1
+university          i                    1
 university          wisconsin            1
 university          work                 1
 unlike              situation            1
@@ -2459,6 +2519,7 @@ would               like                 1
 would               more                 1
 would               reappear             1
 would               transferred          1
+xvi                 i                    1
 year                enrollment           1
 year                experience           1
 year                from                 1

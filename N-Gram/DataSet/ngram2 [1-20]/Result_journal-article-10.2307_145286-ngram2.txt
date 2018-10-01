@@ -9,6 +9,7 @@ two                    parent                 22
 et                     al                     20
 marital                instability            20
 wage                   rate                   20
+husband                s                      19
 afdc                   up                     18
 control                group                  17
 new                    jersey                 17
@@ -25,6 +26,7 @@ independence           effects                11
 marital                split                  11
 new                    york                   11
 statistically          significant            11
+wife                   s                      11
 child                  support                10
 academic               press                  9
 experimental           group                  9
@@ -36,6 +38,7 @@ support                plan                   9
 york                   academic               9
 afdc                   payment                8
 dissolution            rates                  8
+family                 s                      8
 female                 headed                 8
 labor                  supply                 8
 rather                 than                   8
@@ -53,6 +56,7 @@ would                  seem                   7
 after                  tax                    6
 alameda                county                 6
 douglas                wolf                   6
+e                      g                      6
 families               children               6
 gary                   experiment             6
 generous               plans                  6
@@ -101,6 +105,7 @@ percent                rise                   5
 program                better                 5
 public                 policy                 5
 rate                   supplement             5
+s                      earnings               5
 sawhill                et                     5
 standard               theory                 5
 tax                    experiments            5
@@ -121,6 +126,8 @@ families               split                  4
 families               were                   4
 female                 independence           4
 from                   afdc                   4
+group                  s                      4
+h                      bishop                 4
 has                    been                   4
 have                   found                  4
 heads                  families               4
@@ -131,6 +138,7 @@ increase               split                  4
 institute              research               4
 irwin                  garfinkel              4
 jersey                 income                 4
+john                   h                      4
 less                   than                   4
 likely                 than                   4
 low                    wage                   4
@@ -139,6 +147,7 @@ maintenance            programs               4
 male                   independence           4
 male                   wage                   4
 marital                happiness              4
+michael                t                      4
 nancy                  brandon                4
 number                 children               4
 one                    half                   4
@@ -149,6 +158,9 @@ rates                  male                   4
 receiving              payments               4
 research               poverty                4
 role                   performance            4
+s                      analysis               4
+s                      role                   4
+s                      unemployment           4
 sawhill                study                  4
 seem                   have                   4
 self                   esteem                 4
@@ -156,6 +168,7 @@ social                 security               4
 stamps                 afdc                   4
 studies                using                  4
 support                obligations            4
+t                      hannan                 4
 tax                    credit                 4
 than                   others                 4
 three                  years                  4
@@ -182,6 +195,7 @@ component              program                3
 control                groups                 3
 controls               who                    3
 current                set                    3
+d                      dissertation           3
 data                   sets                   3
 dissertation           university             3
 elasticity             female                 3
@@ -209,6 +223,7 @@ headship               rates                  3
 high                   income                 3
 his                    wife                   3
 hoffman                holmes                 3
+honig                  s                      3
 impact                 marital                3
 income                 recipient              3
 increases              marital                3
@@ -222,6 +237,7 @@ marital                adjustment             3
 marital                separation             3
 marital                status                 3
 median                 weeks                  3
+men                    s                      3
 metropolitan           areas                  3
 middleton              haas                   3
 national               longitudinal           3
@@ -240,6 +256,7 @@ percent                control                3
 percent                experimental           3
 percent                increase               3
 permanent              program                3
+ph                     d                      3
 policy                 implications           3
 poverty                university             3
 pre                    enrollment             3
@@ -257,6 +274,9 @@ rise                   male                   3
 robert                 haveman                3
 rose                   from                   3
 rural                  income                 3
+s                      income                 3
+s                      study                  3
+s                      wage                   3
 sample                 size                   3
 security               income                 3
 seem                   imply                  3
@@ -281,6 +301,7 @@ tax                    rate                   3
 tend                   lower                  3
 tuma                   et                     3
 two                    years                  3
+u                      s                      3
 unem                   ployment               3
 unemployment           marital                3
 up                     families               3
@@ -340,6 +361,8 @@ breadwinner            role                   2
 breakeven              blacks                 2
 breakeven              whites                 2
 breaking               up                     2
+c                      heath                  2
+caldwell               s                      2
 calif                  center                 2
 captures               effect                 2
 cash                   transfers              2
@@ -352,17 +375,21 @@ checks                 made                   2
 children               would                  2
 coefficients           afdc                   2
 collar                 workers                2
+community              s                      2
 consequences           job                    2
 contrasts              between                2
 control                practices              2
 costs                  suffered               2
+county                 s                      2
 coverage               include                2
 created                among                  2
 credit                 earnings               2
 current                income                 2
+d                      c                      2
 data                   from                   2
 decline                self                   2
 decrease               marital                2
+denver                 s                      2
 derived                from                   2
 designed               strengthen             2
 destabilizing          effects                2
@@ -383,6 +410,7 @@ do                     prove                  2
 does                   seem                   2
 dollars                increased              2
 during                 first                  2
+e                      those                  2
 earners                families               2
 eds                    albert                 2
 education              husband                2
@@ -391,6 +419,7 @@ effect                 experiment             2
 effect                 operating              2
 effects                fact                   2
 effects                have                   2
+effects                i                      2
 effects                than                   2
 effects                welfare                2
 eligibility            welfare                2
@@ -486,6 +515,7 @@ however                does                   2
 however                has                    2
 however                only                   2
 husband                filer                  2
+i                      e                      2
 iii                    eds                    2
 impact                 afdc                   2
 impact                 experiment             2
@@ -505,9 +535,11 @@ informed               about                  2
 institute              social                 2
 interaction            attrition              2
 interpretation         implies                2
+j                      mathematica            2
 jobs                   component              2
 jobs                   reduce                 2
 journal                marriage               2
+k                      robins                 2
 keep                   families               2
 key                    experimental           2
 lack                   child                  2
@@ -536,6 +568,7 @@ marriages              had                    2
 marriages              those                  2
 marriages              were                   2
 married                state                  2
+mass                   d                      2
 mathematica            policy                 2
 may                    develop                2
 may                    lead                   2
@@ -546,6 +579,7 @@ memo                   douglas                2
 michael                wiseman                2
 models                 control                2
 month                  period                 2
+moore                  s                      2
 more                   marital                2
 more                   powerful               2
 most                   generous               2
@@ -554,6 +588,7 @@ most                   low                    2
 most                   two                    2
 much                   more                   2
 multipliers            derived                2
+n                      j                      2
 national               commission             2
 national               program                2
 nature                 experiments            2
@@ -592,6 +627,7 @@ percent                tax                    2
 percent                whites                 2
 performance            interpretation         2
 period                 time                   2
+philip                 k                      2
 plan                   generosity             2
 plan                   increases              2
 ployment               experienced            2
@@ -600,6 +636,7 @@ positive               coefficient            2
 powerful               independence           2
 previous               year                   2
 prime                  age                    2
+princeton              n                      2
 principal              wage                   2
 printing               office                 2
 probability            dissolution            2
@@ -654,7 +691,16 @@ rise                   wage                   2
 robert                 lerman                 2
 role                   marital                2
 rules                  which                  2
+s                      age                    2
+s                      caldwell               2
+s                      economic               2
+s                      education              2
+s                      government             2
+s                      marriages              2
+s                      probability            2
+s                      welfare                2
 sample                 young                  2
+section                i                      2
 sector                 employment             2
 security               administration         2
 see                    table                  2
@@ -737,6 +783,7 @@ very                   different              2
 vol                    iii                    2
 wage                   levels                 2
 washington             national               2
+washington             u                      2
 watts                  new                    2
 way                    saying                 2
 weeks                  unemployment           2
@@ -759,10 +806,12 @@ who                    leave                  2
 who                    left                   2
 why                    marital                2
 wife                   husband                2
+wiseman                s                      2
 withholding            tax                    2
 within                 household              2
 within                 two                    2
 wolf                   hew                    2
+women                  s                      2
 working                members                2
 worst                  marriages              2
 would                  have                   2
@@ -909,6 +958,8 @@ aid                    would                  1
 aided                  providing              1
 aided                  wage                   1
 al                     analysis               1
+al                     c                      1
+al                     d                      1
 al                     point                  1
 all                    controls               1
 all                    ethnic                 1
@@ -1061,6 +1112,7 @@ argued                 result                 1
 arise                  from                   1
 arise                  may                    1
 arising                from                   1
+arnold                 r                      1
 array                  antipoverty            1
 arrested               bakke                  1
 asked                  rural                  1
@@ -1157,6 +1209,10 @@ averages               quoted                 1
 avoiding               stigma                 1
 aware                  than                   1
 awareness              opportunities          1
+b                      biller                 1
+b                      increasing             1
+b                      minarik                1
+b                      multipliers            1
 background             characteristics        1
 background             early                  1
 bad                    relationship           1
@@ -1165,6 +1221,7 @@ baily                  james                  1
 baily                  tobin                  1
 bakke                  citizens               1
 bakke                  concluded              1
+bakke                  s                      1
 baltimore              md                     1
 bank                   books                  1
 bar                    sources                1
@@ -1261,9 +1318,11 @@ biased                 other                  1
 biases                 created                1
 biases                 estimates              1
 biller                 paternal               1
+billy                  j                      1
 bishop                 abstract               1
 bishop                 general                1
 bishop                 haveman                1
+bishop                 i                      1
 black                  chicano                1
 black                  family                 1
 black                  figure                 1
@@ -1300,6 +1359,7 @@ both                   ways                   1
 both                   white                  1
 both                   whites                 1
 bottom                 quintile               1
+branch                 s                      1
 breadwinner            he                     1
 break                  up                     1
 breakeven              case                   1
@@ -1317,6 +1377,17 @@ bumpass                sweet                  1
 bureaucracy            should                 1
 burtless               maurice                1
 business               economic               1
+c                      d                      1
+c                      et                     1
+c                      hughes                 1
+c                      jones                  1
+c                      keeley                 1
+c                      lowering               1
+c                      multipliers            1
+c                      stone                  1
+c                      wolf                   1
+c                      z                      1
+ca                     v                      1
 calculate              effect                 1
 calculate              net                    1
 calculated             nit                    1
@@ -1348,7 +1419,9 @@ case                   ultimately             1
 case                   unrealistic            1
 caseload               alameda                1
 caseworker             discretion             1
+caseworker             s                      1
 cashing                required               1
+catalano               c                      1
 catalano               dooley                 1
 categories             city                   1
 cation                 summary                1
@@ -1414,6 +1487,7 @@ check                  which                  1
 checks                 out                    1
 checks                 whose                  1
 cherlin                economics              1
+cherlin                s                      1
 chicano                et                     1
 chicano                split                  1
 chicanos               generosity             1
@@ -1470,6 +1544,7 @@ climate                fact                   1
 climate                opinion                1
 clues                  how                    1
 clues                  why                    1
+cn                     m                      1
 code                   raising                1
 coe                    participation          1
 coefficient            controlling            1
@@ -1483,6 +1558,7 @@ coefficients           significant            1
 coefficients           unemployment           1
 coefficients           variables              1
 cohen                  economics              1
+cohen                  s                      1
 cohn                   effect                 1
 com                    munity                 1
 combination            making                 1
@@ -1519,6 +1595,7 @@ complicates            judgments              1
 composi                tion                   1
 comprehensive          description            1
 comstock               helsing                1
+comstock               k                      1
 conceivable            female                 1
 concentrate            raising                1
 conclude               higher                 1
@@ -1698,7 +1775,13 @@ customs                climate                1
 cut                    half                   1
 cutright               income                 1
 cyclical               structural             1
+d                      coe                    1
+d                      dooley                 1
+d                      hoffman                1
+d                      lee                    1
+d                      multipliers            1
 dale                   poirier                1
+daniel                 j                      1
 danziger               plotnick               1
 danziger               robert                 1
 data                   all                    1
@@ -1861,6 +1944,7 @@ discovered             exactly                1
 discrepancy            proportion             1
 discretion             determines             1
 discrimination         desired                1
+discrimination         e                      1
 discussed              section                1
 discussed              what                   1
 discussion             design                 1
@@ -1992,6 +2076,9 @@ during                 experimental           1
 during                 year                   1
 duross                 participant            1
 dynamics               psid                   1
+e                      bakke                  1
+e                      multipliers            1
+e                      yaeger                 1
 each                   experiments            1
 each                   family                 1
 each                   seven                  1
@@ -2002,6 +2089,7 @@ early                  marriage               1
 earn                   good                   1
 earn                   more                   1
 earned                 more                   1
+earner                 s                      1
 earner                 unemployed             1
 earning                too                    1
 earnings               above                  1
@@ -2055,6 +2143,7 @@ economy                externalities          1
 ed                     james                  1
 ed                     john                   1
 ed                     robert                 1
+eds                    d                      1
 educated               able                   1
 education              length                 1
 education              number                 1
@@ -2177,6 +2266,8 @@ eligible               three                  1
 eligible               welfare                1
 eligible               were                   1
 eliminate              discrepancy            1
+elise                  k                      1
+elizabeth              m                      1
 else                   filer                  1
 empirical              analysis               1
 empirical              evidence               1
@@ -2273,8 +2364,10 @@ events                 leads                  1
 events                 marital                1
 events                 metropolitan           1
 eventually             dissolve               1
+everett                c                      1
 every                  goal                   1
 every                  three                  1
+everyone               s                      1
 evidence               currently              1
 evidence               effect                 1
 evidence               existence              1
@@ -2388,6 +2481,7 @@ experiment             rate                   1
 experiment             rather                 1
 experiment             ratio                  1
 experiment             reasons                1
+experiment             s                      1
 experiment             so                     1
 experiment             splitting              1
 experiment             status                 1
@@ -2422,6 +2516,7 @@ experiments            check                  1
 experiments            could                  1
 experiments            did                    1
 experiments            does                   1
+experiments            e                      1
 experiments            employed               1
 experiments            even                   1
 experiments            experimental           1
@@ -2480,11 +2575,13 @@ extent                 marital                1
 extent                 timing                 1
 extent                 which                  1
 externalities          discrimination         1
+externalities          e                      1
 extra                  transaction            1
 extrapolations         after                  1
 extreme                assumptions            1
 extremely              high                   1
 extremely              large                  1
+f                      doolittle              1
 face                   dilemma                1
 faced                  controls               1
 fact                   attrition              1
@@ -2587,6 +2684,8 @@ families               welfare                1
 families               when                   1
 families               whether                1
 families               while                  1
+familiesbishop         i                      1
+familiy                s                      1
 family                 above                  1
 family                 afdc                   1
 family                 already                1
@@ -2651,6 +2750,7 @@ feel                   going                  1
 felt                   families               1
 female                 heads                  1
 female                 unemployment           1
+females                b                      1
 few                    apply                  1
 few                    employers              1
 few                    experimentals          1
@@ -2754,6 +2854,7 @@ found                  special                1
 found                  statistically          1
 found                  white                  1
 four                   experiments            1
+four                   i                      1
 four                   measured               1
 four                   person                 1
 fourth                 contrast               1
@@ -2806,6 +2907,15 @@ further                from                   1
 further                problems               1
 further                reduced                1
 furthermore            couples                1
+g                      against                1
+g                      baily                  1
+g                      children               1
+g                      lack                   1
+g                      peabody                1
+g                      poverty                1
+g                      spiegelman             1
+g                      split                  1
+g                      w                      1
 gain                   involved               1
 gain                   reduction              1
 gaining                real                   1
@@ -2814,11 +2924,13 @@ garfinkel              afdc                   1
 garfinkel              effects                1
 garfinkel              labor                  1
 garfinkel              robert                 1
+garfinkel              s                      1
 gary                   burtless               1
 gary                   families               1
 gary                   husband                1
 gary                   income                 1
 gary                   other                  1
+gary                   s                      1
 gary                   seattle                1
 gary                   wolf                   1
 garyb                  white                  1
@@ -2936,7 +3048,11 @@ guaran                 tees                   1
 guarantee              employment             1
 guarantee              levels                 1
 guaranteed             family                 1
+h                      b                      1
+h                      knudsen                1
+h                      masters                1
 haas                   marital                1
+haas                   s                      1
 had                    attrited               1
 had                    been                   1
 had                    children               1
@@ -3059,6 +3175,7 @@ head                   experiences            1
 head                   family                 1
 head                   may                    1
 head                   raising                1
+head                   s                      1
 head                   when                   1
 head                   without                1
 headed                 low                    1
@@ -3085,6 +3202,7 @@ headship               black                  1
 headship               blacks                 1
 headship               changes                1
 headship               elasticity             1
+headship               n                      1
 headship               poverty                1
 headship               proportion             1
 headship               rate                   1
@@ -3094,6 +3212,7 @@ headship               whites                 1
 health                 development            1
 health                 literature             1
 health                 social                 1
+heather                l                      1
 heighten               sense                  1
 held                   prime                  1
 help                   children               1
@@ -3155,6 +3274,8 @@ his                    probability            1
 his                    self                   1
 his                    status                 1
 his                    unemployment           1
+hofferth               l                      1
+hoffman                j                      1
 holding                age                    1
 holding                constant               1
 holding                earnings               1
@@ -3238,6 +3359,13 @@ hypothesis             necessary              1
 hypothesis             provided               1
 hypothesis             raising                1
 hypothesis             rise                   1
+i                      addition               1
+i                      effect                 1
+i                      evidence               1
+i                      operations             1
+i                      unemployment           1
+i                      wish                   1
+ideal                  e                      1
 identical              assistance             1
 identified             extent                 1
 identified             screening              1
@@ -3509,6 +3637,7 @@ interpretations        marital                1
 interview              families               1
 interview              new                    1
 interview              nor                    1
+interviewer            s                      1
 interviews             women                  1
 intrinsic              interest               1
 inverse                relation               1
@@ -3539,7 +3668,14 @@ its                    impact                 1
 its                    rules                  1
 its                    workers                1
 iv                     could                  1
+iv                     v                      1
 iv                     why                    1
+j                      duross                 1
+j                      helsing                1
+j                      holmes                 1
+j                      minarik                1
+j                      tidwell                1
+james                  n                      1
 james                  sweet                  1
 james                  tobin                  1
 jerilyn                fair                   1
@@ -3580,13 +3716,20 @@ john                   palmer                 1
 johns                  hopkins                1
 join                   jobs                   1
 jointly                both                   1
+jon                    h                      1
 jonathan               kesselman              1
+jones                  s                      1
+joseph                 j                      1
 journal                health                 1
 journal                political              1
 journal                sociology              1
 judgments              about                  1
 judgments              thus                   1
 just                   afdc                   1
+k                      bruml                  1
+k                      e                      1
+k                      j                      1
+k                      moore                  1
 kaluzny                elise                  1
 karl                   iorio                  1
 keeley                 et                     1
@@ -3604,6 +3747,7 @@ kind                   danziger               1
 kind                   fact                   1
 kind                   incentive              1
 kind                   study                  1
+klausner               s                      1
 klausner               six                    1
 knew                   afdc                   1
 knew                   programs               1
@@ -3618,6 +3762,9 @@ knudsen                robert                 1
 knudsen                rurale                 1
 knudsen                scott                  1
 komarovsky             unemployed             1
+l                      kaluzny                1
+l                      ross                   1
+l                      waite                  1
 labor                  force                  1
 labor                  income                 1
 labor                  market                 1
@@ -3782,11 +3929,18 @@ lowered                rates                  1
 lowering               cost                   1
 lowering               unemployment           1
 lowest                 split                  1
+m                      c                      1
+m                      ca                     1
+m                      cn                     1
+m                      hauser                 1
+m                      komarovsky             1
+m                      landes                 1
 macdonald              earnings               1
 macdonald              et                     1
 macdonald              food                   1
 macdonald              isabel                 1
 macdonald              philip                 1
+macdonald              s                      1
 macdonald              thomas                 1
 macroeconomic          structural             1
 made                   easily                 1
@@ -3799,6 +3953,7 @@ made                   references             1
 made                   split                  1
 made                   value                  1
 madison                center                 1
+madison                i                      1
 madison                institute              1
 magnified              effects                1
 magnitudes             unemployment           1
@@ -3847,6 +4002,7 @@ males                  order                  1
 man                    his                    1
 man                    house                  1
 man                    leaving                1
+man                    s                      1
 manipu                 lations                1
 manipula               tions                  1
 manpower               policy                 1
@@ -3885,6 +4041,7 @@ marriage               over                   1
 marriage               partners               1
 marriage               relate                 1
 marriage               rose                   1
+marriage               s                      1
 marriage               termination            1
 marriage               time                   1
 marriages              conclusion             1
@@ -3909,6 +4066,8 @@ marriages              worst                  1
 married                family                 1
 married                male                   1
 married                women                  1
+martin                 n                      1
+mary                   w                      1
 masters                garfinkel              1
 masters                irwin                  1
 mates                  become                 1
@@ -4000,6 +4159,7 @@ methodology            used                   1
 methods                correcting             1
 methods                measuring              1
 metropolitan           community              1
+michael                c                      1
 michael                economic               1
 middle                 class                  1
 middleton              linda                  1
@@ -4094,6 +4254,10 @@ must                   have                   1
 must                   helped                 1
 must                   made                   1
 must                   remain                 1
+n                      baily                  1
+n                      morgan                 1
+n                      vii                    1
+nation                 s                      1
 national               institute              1
 nationally             blacks                 1
 nationally             raising                1
@@ -4146,6 +4310,7 @@ nit                    produce                1
 nit                    produced               1
 nit                    programs               1
 nit                    risks                  1
+nit                    s                      1
 nit                    seattle                1
 nit                    were                   1
 nits                   generous               1
@@ -4187,6 +4352,7 @@ number                 observations           1
 numbers                high                   1
 numbers                splitting              1
 numerous               studies                1
+o                      p                      1
 objective              executive              1
 objective              policy                 1
 objective              public                 1
@@ -4266,6 +4432,7 @@ one                    possible               1
 one                    primary                1
 one                    purposes               1
 one                    responses              1
+one                    s                      1
 one                    shakier                1
 one                    time                   1
 one                    two                    1
@@ -4293,6 +4460,7 @@ operate                only                   1
 operating              across                 1
 operating              other                  1
 operating              provided               1
+operating              v                      1
 operations             surveys                1
 opinion                customs                1
 opinions               expressed              1
@@ -4372,6 +4540,9 @@ own                    previous               1
 own                    wage                   1
 ownership              savings                1
 owning                 home                   1
+p                      mcdonald               1
+p                      o                      1
+p                      thoits                 1
 package                provide                1
 page                   application            1
 paid                   less                   1
@@ -4396,6 +4567,7 @@ parnes                 report                 1
 part                   both                   1
 part                   reason                 1
 part                   tax                    1
+participant            s                      1
 participants           dependence             1
 participants           experiments            1
 participants           would                  1
@@ -4448,6 +4620,7 @@ payments               would                  1
 payoffs                analysis               1
 pbji                   could                  1
 pbji                   designed               1
+peabody                c                      1
 peers                  does                   1
 pennsyl                vania                  1
 people                 afdc                   1
@@ -4728,6 +4901,7 @@ program                reduce                 1
 program                reducing               1
 program                requires               1
 program                rules                  1
+program                s                      1
 program                short                  1
 program                should                 1
 program                staff                  1
@@ -4843,6 +5017,11 @@ quite                  cover                  1
 quite                  strong                 1
 quoted                 above                  1
 quoted                 stone                  1
+r                      c                      1
+r                      catalano               1
+r                      cohn                   1
+r                      d                      1
+r                      shore                  1
 race                   family                 1
 race                   ph                     1
 race                   state                  1
@@ -4862,6 +5041,7 @@ raphy                  ecology                1
 rate                   among                  1
 rate                   appreciably            1
 rate                   coefficient            1
+rate                   e                      1
 rate                   earned                 1
 rate                   estimated              1
 rate                   females                1
@@ -5108,6 +5288,7 @@ report                 hypothesis             1
 report                 national               1
 report                 receiving              1
 report                 sri                    1
+report                 u                      1
 reported               shortly                1
 reporting              form                   1
 reportinq              form                   1
@@ -5147,6 +5328,8 @@ resources              xv                     1
 respect                alameda                1
 respect                diminishes             1
 respect                income                 1
+respectively           d                      1
+respectively           e                      1
 respects               administration         1
 respond                cash                   1
 respond                unemployment           1
@@ -5198,6 +5381,8 @@ revision               welfare                1
 reynolds               eugene                 1
 reynolds               smolensky              1
 riages                 rise                   1
+richard                l                      1
+richard                w                      1
 rise                   afdc                   1
 rise                   all                    1
 rise                   both                   1
@@ -5212,8 +5397,13 @@ risen                  from                   1
 rises                  substantially          1
 risks                  disrupting             1
 ritual                 common                 1
+robert                 c                      1
+robert                 g                      1
+robert                 m                      1
 robert                 plotnick               1
+robert                 s                      1
 robert                 scott                  1
+robert                 t                      1
 robert                 taggert                1
 robins                 nancy                  1
 robins                 provided               1
@@ -5255,6 +5445,56 @@ rural                  seattle                1
 rural                  whites                 1
 rurale                 garyb                  1
 russell                middleton              1
+s                      administrative         1
+s                      afdc                   1
+s                      after                  1
+s                      attitude               1
+s                      authority              1
+s                      becker                 1
+s                      critical               1
+s                      denial                 1
+s                      department             1
+s                      employment             1
+s                      equilibrium            1
+s                      expected               1
+s                      experimental           1
+s                      failure                1
+s                      goldfarb               1
+s                      gore                   1
+s                      harrar                 1
+s                      hofferth               1
+s                      hourly                 1
+s                      hours                  1
+s                      husband                1
+s                      incremental            1
+s                      job                    1
+s                      klausner               1
+s                      knowledge              1
+s                      labor                  1
+s                      motivation             1
+s                      normal                 1
+s                      occupation             1
+s                      own                    1
+s                      panel                  1
+s                      parental               1
+s                      peers                  1
+s                      performance            1
+s                      personal               1
+s                      pre                    1
+s                      prophecy               1
+s                      receiving              1
+s                      residence              1
+s                      results                1
+s                      satisfaction           1
+s                      short                  1
+s                      simulations            1
+s                      spells                 1
+s                      studies                1
+s                      tax                    1
+s                      tendency               1
+s                      wiseman                1
+s                      words                  1
+s                      working                1
 said                   person                 1
 salary                 jobs                   1
 sales                  property               1
@@ -5282,9 +5522,11 @@ satisfaction           failure                1
 satisfaction           mates                  1
 satisfaction           women                  1
 satisfied              dissatisfied           1
+saul                   d                      1
 save                   marriages              1
 savings                hours                  1
 savings                lowered                1
+sawhill                g                      1
 sawhill                honig                  1
 sawhill                knudsen                1
 sawhill                time                   1
@@ -5400,6 +5642,7 @@ shifts                 wage                   1
 shock                  pre                    1
 shocks                 marriage               1
 shore                  household              1
+shore                  s                      1
 short                  form                   1
 short                  long                   1
 shortly                extending              1
@@ -5450,6 +5693,7 @@ significantly          increases              1
 significantly          more                   1
 significantly          reduce                 1
 silverman              michael                1
+silverman              s                      1
 similar                cash                   1
 similar                change                 1
 similar                changes                1
@@ -5559,6 +5803,7 @@ spends                 doing                  1
 spends                 roughly                1
 spiegelman             richard                1
 split                  denver                 1
+split                  e                      1
 split                  female                 1
 split                  intact                 1
 split                  multipliers            1
@@ -5634,6 +5879,7 @@ stand                  accused                1
 standard               analysis               1
 standard               application            1
 standard               wage                   1
+stanley                h                      1
 starts                 motion                 1
 state                  afdc                   1
 state                  calling                1
@@ -5862,6 +6108,7 @@ system                 works                  1
 system                 would                  1
 systems                affect                 1
 systems                does                   1
+t                      michael                1
 table                  xii                    1
 taggert                washington             1
 take                   up                     1
@@ -5985,6 +6232,7 @@ third                  income                 1
 third                  tuma                   1
 thoits                 hannan                 1
 thoits                 michael                1
+thomas                 p                      1
 thorough               analysis               1
 those                  above                  1
 those                  bakke                  1
@@ -6090,6 +6338,7 @@ tried                  out                    1
 try                    enforce                1
 tuma                   groeneveld             1
 tuma                   income                 1
+tuma                   k                      1
 tuma                   yeager                 1
 turn                   interpretation         1
 turnover               population             1
@@ -6171,6 +6420,7 @@ unemployment           one                    1
 unemployment           problems               1
 unemployment           produce                1
 unemployment           reductions             1
+unemployment           s                      1
 unemployment           sickness               1
 unemployment           variable               1
 unemployment           would                  1
@@ -6260,6 +6510,9 @@ using                  scoreboard             1
 using                  states                 1
 using                  three                  1
 using                  welfare                1
+v                      bishop                 1
+v                      do                     1
+v                      seem                   1
 value                  food                   1
 value                  judgments              1
 variable               captures               1
@@ -6299,7 +6552,12 @@ views                  about                  1
 vii                    concluding             1
 violent                temper                 1
 visit                  government             1
+vol                    i                      1
 voucher                like                   1
+w                      comstock               1
+w                      e                      1
+w                      hicks                  1
+w                      west                   1
 wage                   average                1
 wage                   earner                 1
 wage                   earners                1
@@ -6353,7 +6611,9 @@ weeks                  one                    1
 weight                 assigned               1
 welfare                after                  1
 welfare                attempt                1
+welfare                b                      1
 welfare                bureaucracy            1
+welfare                c                      1
 welfare                cash                   1
 welfare                consequences           1
 welfare                coverage               1
@@ -6389,6 +6649,7 @@ well                   recognized             1
 well                   should                 1
 well                   unfortunately          1
 well                   were                   1
+wendy                  c                      1
 went                   up                     1
 were                   able                   1
 were                   actually               1
@@ -6554,6 +6815,7 @@ wife                   jointly                1
 wife                   option                 1
 wife                   split                  1
 wife                   well                   1
+william                s                      1
 willingness            share                  1
 win                    thesis                 1
 wisconsin              high                   1
@@ -6595,6 +6857,7 @@ women                  washington             1
 women                  welfare                1
 won                    new                    1
 words                  every                  1
+work                   c                      1
 work                   conditioned            1
 work                   earn                   1
 work                   efforts                1
@@ -6615,6 +6878,7 @@ worked                 unemployment           1
 worker                 may                    1
 worker                 must                   1
 worker                 recedes                1
+worker                 s                      1
 worker                 would                  1
 workers                compensation           1
 workers                excludes               1
@@ -6676,6 +6940,8 @@ would                  viewed                 1
 wpa                    job                    1
 written                consent                1
 wrss                   limited                1
+x                      m                      1
+xii                    p                      1
 yaeger                 effects                1
 yale                   university             1
 year                   had                    1
@@ -6719,4 +6985,5 @@ you                    re                     1
 you                    when                   1
 your                   family                 1
 yourself               psid                   1
+z                      r                      1
 zero                   produce                1
