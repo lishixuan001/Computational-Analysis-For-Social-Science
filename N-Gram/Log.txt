@@ -12,10 +12,13 @@ Updated filtering constraints. Now enables:
 ### 9/30 ###
 Modified filtering constraints. Now enables:
 - All ngrams filtering
+- Make ngram DataFrames formatted and be prepared for matching trials
+- Modify and design performance features (data structures, algorithms)
+- Successfully created and updated full-feature article dictionary frame
+- Generated and saved linking IDs for connecting to Metadata
 
 
 ### Plans ###
-- Make ngram DataFrames formatted and be prepared for matching trials
 
 
 ### Problems ###
