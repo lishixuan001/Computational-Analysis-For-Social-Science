@@ -1,0 +1,13 @@
+Zip_ID,Metadata,Ngram1,Ngram2,Ngram3,OCR
+001,metadata,2,3,3,6
+002,metadata,0,1,2,2
+004,metadata,0,0,4,5
+005,metadata,1,5,10,15
+006,metadata,2,2,4,5
+007,metadata,3,5,7,8
+008,metadata,4,7,11,12
+009,metadata,0,2,6,7
+010,metadata,10,13,19,23
+011,metadata,4,6,8,11
+013,metadata,5,7,12,13
+014,metadata,1,1,1,1
