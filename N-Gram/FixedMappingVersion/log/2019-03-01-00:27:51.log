@@ -1,0 +1,8 @@
+2019-03-01 00:27:51 WARNING  [Exception] => [no such table: map_result]
+2019-03-01 00:27:51 INFO     Table Dropped
+2019-03-01 00:27:51 INFO     Table Init Success
+2019-03-01 00:27:51 INFO     Connecting to DB
+2019-03-01 00:27:51 INFO     Processing Mapping
+2019-03-01 00:27:51 INFO     Loading File Set: [001]
+2019-03-01 00:27:51 INFO     Async Processing
+2019-03-01 00:27:52 INFO     Collecting Results

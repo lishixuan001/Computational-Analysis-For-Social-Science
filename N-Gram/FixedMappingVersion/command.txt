@@ -1,0 +1,5 @@
+srun --partition=savio2_bigmem --ntasks=1 --cpus-per-task=20 --time=24:00:00 python Mapping.py
+
+
+
+
