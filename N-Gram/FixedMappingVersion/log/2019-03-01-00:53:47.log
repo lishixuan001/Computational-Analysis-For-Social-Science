@@ -1,7 +1,0 @@
-2019-03-01 00:53:47 INFO     Connecting to DB
-2019-03-01 00:53:47 INFO     Processing Mapping
-2019-03-01 00:53:47 INFO     Loading File Set: [004]
-2019-03-01 00:53:48 INFO     --> Detect Loaded [216], Resume Mapping
-2019-03-01 00:53:48 INFO     Async Processing
-2019-03-01 00:53:48 WARNING  [Exception] => [division by zero] - [FileSetID: 004], [FileID: 10.2307_1387648]
-2019-03-01 00:53:51 INFO     Collecting Results
