@@ -1,0 +1,391 @@
+2019-03-01 00:45:54 INFO     Connecting to DB
+2019-03-01 00:45:54 INFO     Processing Mapping
+2019-03-01 00:45:54 INFO     Loading File Set: [002]
+2019-03-01 00:45:54 INFO     --> Detect Loaded [493], Resume Mapping
+2019-03-01 00:45:54 INFO     Async Processing
+2019-03-01 00:45:54 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_353301]
+2019-03-01 00:45:54 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41844796]
+2019-03-01 00:45:54 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41623151]
+2019-03-01 00:45:54 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41514622]
+2019-03-01 00:45:55 INFO     Collecting Results
+2019-03-01 00:47:27 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41514543]
+2019-03-01 00:48:03 INFO     --> Processed: 593; Average Time: 1.2805573797225953
+2019-03-01 00:51:28 INFO     --> Processed: 693; Average Time: 1.6664811527729035
+2019-03-01 00:51:44 INFO     --> Processed: 793; Average Time: 1.1632532604535422
+2019-03-01 00:54:32 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41838032]
+2019-03-01 00:55:37 INFO     --> Processed: 893; Average Time: 1.45436656832695
+2019-03-01 00:55:38 INFO     --> Processed: 993; Average Time: 1.1662082405090333
+2019-03-01 00:56:46 INFO     --> Processed: 1093; Average Time: 1.0849806658426921
+2019-03-01 00:57:28 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43481437]
+2019-03-01 00:58:52 INFO     --> Processed: 1193; Average Time: 1.1099867347308567
+2019-03-01 00:59:42 INFO     --> Processed: 1293; Average Time: 1.033960028886795
+2019-03-01 01:01:50 INFO     --> Processed: 1393; Average Time: 1.0607734089427525
+2019-03-01 01:03:09 INFO     --> Processed: 1493; Average Time: 1.0337854630947112
+2019-03-01 01:04:03 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41800806]
+2019-03-01 01:04:34 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_44429452]
+2019-03-01 01:04:41 INFO     --> Processed: 1593; Average Time: 1.023547116843137
+2019-03-01 01:06:19 INFO     --> Processed: 1693; Average Time: 1.0201595238844554
+2019-03-01 01:08:29 INFO     --> Processed: 1793; Average Time: 1.0412268675290621
+2019-03-01 01:09:55 INFO     --> Processed: 1893; Average Time: 1.0287043448856898
+2019-03-01 01:11:49 INFO     --> Processed: 1993; Average Time: 1.0358864048322043
+2019-03-01 01:13:23 INFO     --> Processed: 2093; Average Time: 1.0299541182816028
+2019-03-01 01:14:38 INFO     --> Processed: 2193; Average Time: 1.0137810751971077
+2019-03-01 01:16:30 INFO     --> Processed: 2293; Average Time: 1.0196839169661205
+2019-03-01 01:18:54 INFO     --> Processed: 2393; Average Time: 1.041439479652204
+2019-03-01 01:21:50 INFO     --> Processed: 2493; Average Time: 1.0774634968042374
+2019-03-01 01:22:29 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_23413693]
+2019-03-01 01:23:46 INFO     --> Processed: 2593; Average Time: 1.0815513924189977
+2019-03-01 01:24:28 INFO     --> Processed: 2693; Average Time: 1.0512055078419773
+2019-03-01 01:24:48 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41783623]
+2019-03-01 01:25:51 INFO     --> Processed: 2793; Average Time: 1.041716121694316
+2019-03-01 01:28:00 INFO     --> Processed: 2893; Average Time: 1.052259323100249
+2019-03-01 01:29:05 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294334]
+2019-03-01 01:29:07 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.1525_si.1999.22.4.cover]
+2019-03-01 01:29:09 INFO     --> Processed: 2993; Average Time: 1.037676096534729
+2019-03-01 01:32:55 INFO     --> Processed: 3093; Average Time: 1.084632559464528
+2019-03-01 01:33:07 INFO     --> Processed: 3193; Average Time: 1.0488223594206352
+2019-03-01 01:34:23 INFO     --> Processed: 3293; Average Time: 1.038739534020424
+2019-03-01 01:35:05 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43610996]
+2019-03-01 01:37:34 INFO     --> Processed: 3393; Average Time: 1.0686547869649428
+2019-03-01 01:38:57 INFO     --> Processed: 3493; Average Time: 1.0605381081899008
+2019-03-01 01:41:09 INFO     --> Processed: 3593; Average Time: 1.0691174189506039
+2019-03-01 01:41:57 INFO     --> Processed: 3693; Average Time: 1.0505618746578693
+2019-03-01 01:43:14 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_23745446]
+2019-03-01 01:43:23 INFO     --> Processed: 3793; Average Time: 1.0447537585460778
+2019-03-01 01:44:41 INFO     --> Processed: 3893; Average Time: 1.0371543647962458
+2019-03-01 01:46:32 INFO     --> Processed: 3993; Average Time: 1.039239344869341
+2019-03-01 01:47:30 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41845189]
+2019-03-01 01:48:21 INFO     --> Processed: 4093; Average Time: 1.0404716310236188
+2019-03-01 01:50:55 INFO     --> Processed: 4193; Average Time: 1.0540050583272367
+2019-03-01 01:51:54 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_42857900]
+2019-03-01 01:52:56 INFO     --> Processed: 4293; Average Time: 1.058080190859343
+2019-03-01 01:53:14 INFO     --> Processed: 4393; Average Time: 1.035592224353399
+2019-03-01 01:53:41 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294513]
+2019-03-01 01:54:52 INFO     --> Processed: 4493; Average Time: 1.0342085493803024
+2019-03-01 01:56:42 INFO     --> Processed: 4593; Average Time: 1.035860091709509
+2019-03-01 01:58:49 INFO     --> Processed: 4693; Average Time: 1.0413922706672123
+2019-03-01 02:00:54 INFO     --> Processed: 4793; Average Time: 1.0462895494838094
+2019-03-01 02:02:09 INFO     --> Processed: 4893; Average Time: 1.039556597417051
+2019-03-01 02:04:41 INFO     --> Processed: 4993; Average Time: 1.0501997547679478
+2019-03-01 02:05:36 INFO     --> Processed: 5093; Average Time: 1.0393273977611377
+2019-03-01 02:06:35 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294435]
+2019-03-01 02:07:07 INFO     --> Processed: 5193; Average Time: 1.0365529659961132
+2019-03-01 02:08:29 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24179117]
+2019-03-01 02:08:36 INFO     --> Processed: 5293; Average Time: 1.0335462840398153
+2019-03-01 02:10:13 INFO     --> Processed: 5393; Average Time: 1.032352084967555
+2019-03-01 02:10:22 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24719532]
+2019-03-01 02:11:47 INFO     --> Processed: 5493; Average Time: 1.0303927130699158
+2019-03-01 02:13:02 INFO     --> Processed: 5593; Average Time: 1.0249371334618214
+2019-03-01 02:16:08 INFO     --> Processed: 5693; Average Time: 1.040975611301569
+2019-03-01 02:16:35 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294853]
+2019-03-01 02:16:58 INFO     --> Processed: 5793; Average Time: 1.0307834070133712
+2019-03-01 02:18:36 INFO     --> Processed: 5893; Average Time: 1.0298570845303712
+2019-03-01 02:20:15 INFO     --> Processed: 5993; Average Time: 1.029139732057398
+2019-03-01 02:23:57 INFO     --> Processed: 6093; Average Time: 1.0503272988115038
+2019-03-01 02:24:05 INFO     --> Processed: 6193; Average Time: 1.0334009785819471
+2019-03-01 02:24:52 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_350635]
+2019-03-01 02:25:05 INFO     --> Processed: 6293; Average Time: 1.0258506447693396
+2019-03-01 02:27:05 INFO     --> Processed: 6393; Average Time: 1.0288945212606657
+2019-03-01 02:28:46 INFO     --> Processed: 6493; Average Time: 1.0284746543566385
+2019-03-01 02:31:51 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24490917]
+2019-03-01 02:32:21 INFO     --> Processed: 6593; Average Time: 1.0469436369958471
+2019-03-01 02:32:25 INFO     --> Processed: 6693; Average Time: 1.0306595382767338
+2019-03-01 02:34:25 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294352]
+2019-03-01 02:34:30 INFO     --> Processed: 6793; Average Time: 1.034111691013215
+2019-03-01 02:36:08 INFO     --> Processed: 6893; Average Time: 1.0332304256781937
+2019-03-01 02:36:54 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_350639]
+2019-03-01 02:37:52 INFO     --> Processed: 6993; Average Time: 1.0333778051963218
+2019-03-01 02:39:47 INFO     --> Processed: 7093; Average Time: 1.0351801624803831
+2019-03-01 02:40:39 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24719383]
+2019-03-01 02:41:00 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41514568]
+2019-03-01 02:41:20 INFO     --> Processed: 7193; Average Time: 1.033598692061296
+2019-03-01 02:43:30 INFO     --> Processed: 7293; Average Time: 1.0374762166598264
+2019-03-01 02:44:07 INFO     --> Processed: 7393; Average Time: 1.0278654710451762
+2019-03-01 02:44:34 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.1525_si.1989.12.2.cover]
+2019-03-01 02:45:47 INFO     --> Processed: 7493; Average Time: 1.0274836657728468
+2019-03-01 02:47:31 INFO     --> Processed: 7593; Average Time: 1.0276202404331154
+2019-03-01 02:47:40 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41840555]
+2019-03-01 02:47:47 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41489956]
+2019-03-01 02:49:12 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_23891364]
+2019-03-01 02:49:15 INFO     --> Processed: 7693; Average Time: 1.0277547734975814
+2019-03-01 02:50:20 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24720313]
+2019-03-01 02:50:43 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_353304]
+2019-03-01 02:50:44 INFO     --> Processed: 7793; Average Time: 1.0259364462878606
+2019-03-01 02:52:34 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24206464]
+2019-03-01 02:53:01 INFO     --> Processed: 7893; Average Time: 1.0306058670056832
+2019-03-01 02:53:24 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_350638]
+2019-03-01 02:54:12 INFO     --> Processed: 7993; Average Time: 1.0262682664235432
+2019-03-01 02:55:39 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_351506]
+2019-03-01 02:56:03 INFO     --> Processed: 8093; Average Time: 1.0273664229167134
+2019-03-01 02:58:03 INFO     --> Processed: 8193; Average Time: 1.0295848259678135
+2019-03-01 02:59:52 INFO     --> Processed: 8293; Average Time: 1.0304010837506026
+2019-03-01 03:01:11 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41843839]
+2019-03-01 03:04:40 INFO     --> Processed: 8393; Average Time: 1.0538353028176706
+2019-03-01 03:04:41 INFO     --> Processed: 8493; Average Time: 1.0408031691610813
+2019-03-01 03:05:31 INFO     --> Processed: 8593; Average Time: 1.0341397290759617
+2019-03-01 03:06:46 INFO     --> Processed: 8693; Average Time: 1.0305639548127243
+2019-03-01 03:08:19 INFO     --> Processed: 8793; Average Time: 1.0293649522942232
+2019-03-01 03:09:11 INFO     --> Processed: 8893; Average Time: 1.0233244102057957
+2019-03-01 03:11:52 INFO     --> Processed: 8993; Average Time: 1.030289140364703
+2019-03-01 03:11:57 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_44816304]
+2019-03-01 03:13:15 INFO     --> Processed: 9093; Average Time: 1.0279037918323695
+2019-03-01 03:14:48 INFO     --> Processed: 9193; Average Time: 1.0267431503602829
+2019-03-01 03:16:41 INFO     --> Processed: 9293; Average Time: 1.0280003134770828
+2019-03-01 03:17:56 INFO     --> Processed: 9393; Average Time: 1.0247880136564875
+2019-03-01 03:21:26 INFO     --> Processed: 9493; Average Time: 1.0368155260350969
+2019-03-01 03:21:36 INFO     --> Processed: 9593; Average Time: 1.0264994320502647
+2019-03-01 03:23:26 INFO     --> Processed: 9693; Average Time: 1.027251089396684
+2019-03-01 03:24:25 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41931504]
+2019-03-01 03:26:13 INFO     --> Processed: 9793; Average Time: 1.0341871485915235
+2019-03-01 03:27:14 INFO     --> Processed: 9893; Average Time: 1.0296446875308423
+2019-03-01 03:27:51 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_351947]
+2019-03-01 03:28:59 INFO     --> Processed: 9993; Average Time: 1.0298734022190696
+2019-03-01 03:30:12 INFO     --> Processed: 10093; Average Time: 1.026802341962854
+2019-03-01 03:31:53 INFO     --> Processed: 10193; Average Time: 1.0266093144465969
+2019-03-01 03:33:05 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41843372]
+2019-03-01 03:33:36 INFO     --> Processed: 10293; Average Time: 1.0266788961206164
+2019-03-01 03:35:33 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41801200]
+2019-03-01 03:36:12 INFO     --> Processed: 10393; Average Time: 1.0320565817572853
+2019-03-01 03:37:30 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41844264]
+2019-03-01 03:37:34 INFO     --> Processed: 10493; Average Time: 1.0298606837034225
+2019-03-01 03:38:35 INFO     --> Processed: 10593; Average Time: 1.0257157167821827
+2019-03-01 03:40:26 INFO     --> Processed: 10693; Average Time: 1.026527356259963
+2019-03-01 03:43:32 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41783566]
+2019-03-01 03:46:56 INFO     --> Processed: 10793; Average Time: 1.0544970173280217
+2019-03-01 03:46:57 INFO     --> Processed: 10893; Average Time: 1.0444603843643114
+2019-03-01 03:46:58 INFO     --> Processed: 10993; Average Time: 1.0346130159241813
+2019-03-01 03:47:13 INFO     --> Processed: 11093; Average Time: 1.026223299683265
+2019-03-01 03:49:18 INFO     --> Processed: 11193; Average Time: 1.0283460488497653
+2019-03-01 03:50:59 INFO     --> Processed: 11293; Average Time: 1.0281240693948888
+2019-03-01 03:52:46 INFO     --> Processed: 11393; Average Time: 1.0285561109245371
+2019-03-01 03:53:06 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_351945]
+2019-03-01 03:53:50 INFO     --> Processed: 11493; Average Time: 1.025049745126204
+2019-03-01 03:54:14 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_30124896]
+2019-03-01 03:55:23 INFO     --> Processed: 11593; Average Time: 1.024130627228333
+2019-03-01 03:56:11 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41960729]
+2019-03-01 03:56:12 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.1525_si.1991.14.4.cover]
+2019-03-01 03:56:21 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_351533]
+2019-03-01 03:56:47 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24178478]
+2019-03-01 03:57:45 INFO     --> Processed: 11693; Average Time: 1.0276423354659763
+2019-03-01 03:58:48 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_20851463]
+2019-03-01 03:59:19 INFO     --> Processed: 11793; Average Time: 1.0268924021509895
+2019-03-01 03:59:27 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41929287]
+2019-03-01 04:00:45 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_3069636]
+2019-03-01 04:01:22 INFO     --> Processed: 11893; Average Time: 1.0287212597068986
+2019-03-01 04:02:40 INFO     --> Processed: 11993; Average Time: 1.0265439079326133
+2019-03-01 04:04:19 INFO     --> Processed: 12093; Average Time: 1.026231720242007
+2019-03-01 04:06:07 INFO     --> Processed: 12193; Average Time: 1.0266369714899959
+2019-03-01 04:07:22 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.1525_si.1994.17.4.453]
+2019-03-01 04:07:41 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41406382]
+2019-03-01 04:08:02 INFO     --> Processed: 12293; Average Time: 1.027757288641849
+2019-03-01 04:09:34 INFO     --> Processed: 12393; Average Time: 1.0267859755644277
+2019-03-01 04:09:59 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_2391621]
+2019-03-01 04:10:26 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.1525_si.1983.6.2.cover]
+2019-03-01 04:11:13 INFO     --> Processed: 12493; Average Time: 1.0265139025648435
+2019-03-01 04:12:38 INFO     --> Processed: 12593; Average Time: 1.0250108533260252
+2019-03-01 04:14:41 INFO     --> Processed: 12693; Average Time: 1.026695980458963
+2019-03-01 04:15:06 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41861616]
+2019-03-01 04:16:10 INFO     --> Processed: 12793; Average Time: 1.0255850764600243
+2019-03-01 04:16:20 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24175785]
+2019-03-01 04:18:06 INFO     --> Processed: 12893; Average Time: 1.0266875316058435
+2019-03-01 04:19:36 INFO     --> Processed: 12993; Average Time: 1.0256577236175537
+2019-03-01 04:20:41 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_40226329]
+2019-03-01 04:21:20 INFO     --> Processed: 13093; Average Time: 1.0258082596271758
+2019-03-01 04:21:37 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294885]
+2019-03-01 04:23:33 INFO     --> Processed: 13193; Average Time: 1.0281819132369334
+2019-03-01 04:26:16 INFO     --> Processed: 13293; Average Time: 1.0328722414374352
+2019-03-01 04:27:12 INFO     --> Processed: 13393; Average Time: 1.029230300936588
+2019-03-01 04:28:42 INFO     --> Processed: 13493; Average Time: 1.0282052461000588
+2019-03-01 04:30:40 INFO     --> Processed: 13593; Average Time: 1.029375621162298
+2019-03-01 04:33:32 INFO     --> Processed: 13693; Average Time: 1.0346184992248362
+2019-03-01 04:34:44 INFO     --> Processed: 13793; Average Time: 1.032267552515618
+2019-03-01 04:37:44 INFO     --> Processed: 13893; Average Time: 1.0379984388956383
+2019-03-01 04:37:53 INFO     --> Processed: 13993; Average Time: 1.0310012827272768
+2019-03-01 04:40:45 INFO     --> Processed: 14093; Average Time: 1.0359993551233235
+2019-03-01 04:42:34 INFO     --> Processed: 14193; Average Time: 1.0363990182598142
+2019-03-01 04:43:32 INFO     --> Processed: 14293; Average Time: 1.0331313676765
+2019-03-01 04:45:06 INFO     --> Processed: 14393; Average Time: 1.032453406920536
+2019-03-01 04:46:34 INFO     --> Processed: 14493; Average Time: 1.0313535946948187
+2019-03-01 04:48:43 INFO     --> Processed: 14593; Average Time: 1.0332124258271347
+2019-03-01 04:50:32 INFO     --> Processed: 14693; Average Time: 1.0335690821056636
+2019-03-01 04:51:36 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_3013444]
+2019-03-01 04:52:41 INFO     --> Processed: 14793; Average Time: 1.0353829638274399
+2019-03-01 04:54:06 INFO     --> Processed: 14893; Average Time: 1.0341098116007117
+2019-03-01 04:55:39 INFO     --> Processed: 14993; Average Time: 1.0334100411184903
+2019-03-01 04:56:44 INFO     --> Processed: 15093; Average Time: 1.0307637752735452
+2019-03-01 04:59:38 INFO     --> Processed: 15193; Average Time: 1.0355592081011558
+2019-03-01 05:01:08 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.1525_si.1994.17.1.cover]
+2019-03-01 05:03:23 INFO     --> Processed: 15293; Average Time: 1.0437888789982408
+2019-03-01 05:03:24 INFO     --> Processed: 15393; Average Time: 1.0368558118647377
+2019-03-01 05:03:32 INFO     --> Processed: 15493; Average Time: 1.030459795029958
+2019-03-01 05:05:00 INFO     --> Processed: 15593; Average Time: 1.0294795905043748
+2019-03-01 05:07:07 INFO     --> Processed: 15693; Average Time: 1.0310527449375704
+2019-03-01 05:08:39 INFO     --> Processed: 15793; Average Time: 1.0303010426315606
+2019-03-01 05:12:22 INFO     --> Processed: 15893; Average Time: 1.0381534611559533
+2019-03-01 05:13:56 INFO     --> Processed: 15993; Average Time: 1.0374860658953267
+2019-03-01 05:14:11 INFO     --> Processed: 16093; Average Time: 1.0318307969509026
+2019-03-01 05:15:04 INFO     --> Processed: 16193; Average Time: 1.028617990351027
+2019-03-01 05:16:50 INFO     --> Processed: 16293; Average Time: 1.0288149822663657
+2019-03-01 05:18:39 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_1387635]
+2019-03-01 05:18:53 INFO     --> Processed: 16393; Average Time: 1.0300764843352936
+2019-03-01 05:22:22 INFO     --> Processed: 16493; Average Time: 1.036703069344163
+2019-03-01 05:22:23 INFO     --> Processed: 16593; Average Time: 1.0303248879480065
+2019-03-01 05:23:14 INFO     --> Processed: 16693; Average Time: 1.0270774350342926
+2019-03-01 05:25:10 INFO     --> Processed: 16793; Average Time: 1.027920135691122
+2019-03-01 05:26:15 INFO     --> Processed: 16893; Average Time: 1.025604471913198
+2019-03-01 05:28:27 INFO     --> Processed: 16993; Average Time: 1.0273906147263268
+2019-03-01 05:31:15 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_42851623]
+2019-03-01 05:31:52 INFO     --> Processed: 17093; Average Time: 1.033581831412143
+2019-03-01 05:32:16 INFO     --> Processed: 17193; Average Time: 1.0288063161815713
+2019-03-01 05:33:14 INFO     --> Processed: 17293; Average Time: 1.0261240882674854
+2019-03-01 05:35:29 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41625172]
+2019-03-01 05:36:50 INFO     --> Processed: 17393; Average Time: 1.0328253762679693
+2019-03-01 05:37:44 INFO     --> Processed: 17493; Average Time: 1.0299547676058376
+2019-03-01 05:39:21 INFO     --> Processed: 17593; Average Time: 1.0295896760762087
+2019-03-01 05:40:34 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_42857927]
+2019-03-01 05:40:43 INFO     --> Processed: 17693; Average Time: 1.0284029135038686
+2019-03-01 05:41:49 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41843166]
+2019-03-01 05:42:40 INFO     --> Processed: 17793; Average Time: 1.0292131206479376
+2019-03-01 05:44:14 INFO     --> Processed: 17893; Average Time: 1.0286783079169262
+2019-03-01 05:45:59 INFO     --> Processed: 17993; Average Time: 1.0287942384038653
+2019-03-01 05:47:19 INFO     --> Processed: 18093; Average Time: 1.0274952404471962
+2019-03-01 05:48:55 INFO     --> Processed: 18193; Average Time: 1.0271397654215495
+2019-03-01 05:49:40 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41844551]
+2019-03-01 05:51:46 INFO     --> Processed: 18293; Average Time: 1.0309725771593243
+2019-03-01 05:52:49 INFO     --> Processed: 18393; Average Time: 1.0287260083379692
+2019-03-01 05:54:27 INFO     --> Processed: 18493; Average Time: 1.0284569472736782
+2019-03-01 05:56:13 INFO     --> Processed: 18593; Average Time: 1.0286071085534703
+2019-03-01 05:57:05 INFO     --> Processed: 18693; Average Time: 1.025853542128762
+2019-03-01 05:59:00 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_3012744]
+2019-03-01 05:59:05 INFO     --> Processed: 18793; Average Time: 1.0267795714654557
+2019-03-01 06:00:56 INFO     --> Processed: 18893; Average Time: 1.0272167884785197
+2019-03-01 06:03:04 INFO     --> Processed: 18993; Average Time: 1.0285859273575448
+2019-03-01 06:04:45 INFO     --> Processed: 19093; Average Time: 1.028515246465642
+2019-03-01 06:06:36 INFO     --> Processed: 19193; Average Time: 1.0289084139992208
+2019-03-01 06:08:26 INFO     --> Processed: 19293; Average Time: 1.0292951830270443
+2019-03-01 06:10:02 INFO     --> Processed: 19393; Average Time: 1.0289604834021715
+2019-03-01 06:10:23 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41507278]
+2019-03-01 06:11:33 INFO     --> Processed: 19493; Average Time: 1.0283315882933768
+2019-03-01 06:14:02 INFO     --> Processed: 19593; Average Time: 1.0307108200033297
+2019-03-01 06:16:03 INFO     --> Processed: 19693; Average Time: 1.0316776241362096
+2019-03-01 06:16:04 INFO     --> Processed: 19793; Average Time: 1.0263838960840295
+2019-03-01 06:17:54 INFO     --> Processed: 19893; Average Time: 1.0267645100219962
+2019-03-01 06:21:09 INFO     --> Processed: 19993; Average Time: 1.0315029408014738
+2019-03-01 06:22:21 INFO     --> Processed: 20093; Average Time: 1.0298787153983602
+2019-03-01 06:24:19 INFO     --> Processed: 20193; Average Time: 1.0306883447908508
+2019-03-01 06:24:36 INFO     --> Processed: 20293; Average Time: 1.026324918655434
+2019-03-01 06:27:02 INFO     --> Processed: 20393; Average Time: 1.0284743661976339
+2019-03-01 06:28:01 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41843714]
+2019-03-01 06:28:07 INFO     --> Processed: 20493; Average Time: 1.0266100020766258
+2019-03-01 06:30:37 INFO     --> Processed: 20593; Average Time: 1.0289353410758781
+2019-03-01 06:30:51 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41484731]
+2019-03-01 06:32:13 INFO     --> Processed: 20693; Average Time: 1.0286331882453201
+2019-03-01 06:35:34 INFO     --> Processed: 20793; Average Time: 1.0334307404574503
+2019-03-01 06:35:35 INFO     --> Processed: 20893; Average Time: 1.0284143573279474
+2019-03-01 06:36:49 INFO     --> Processed: 20993; Average Time: 1.0270139699447445
+2019-03-01 06:38:33 INFO     --> Processed: 21093; Average Time: 1.0271037214705088
+2019-03-01 06:40:02 INFO     --> Processed: 21193; Average Time: 1.026420875010283
+2019-03-01 06:41:16 INFO     --> Processed: 21293; Average Time: 1.0250474949066455
+2019-03-01 06:41:28 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41844004]
+2019-03-01 06:43:19 INFO     --> Processed: 21393; Average Time: 1.0260122752988168
+2019-03-01 06:46:20 INFO     --> Processed: 21493; Average Time: 1.0297458432742528
+2019-03-01 06:46:46 INFO     --> Processed: 21593; Average Time: 1.0261025801767105
+2019-03-01 06:48:02 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41274560]
+2019-03-01 06:49:10 INFO     --> Processed: 21693; Average Time: 1.0280506457922594
+2019-03-01 06:49:56 INFO     --> Processed: 21793; Average Time: 1.0253854892511323
+2019-03-01 06:52:48 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41783047]
+2019-03-01 06:52:49 INFO     --> Processed: 21893; Average Time: 1.0286899766966562
+2019-03-01 06:53:23 INFO     --> Processed: 21993; Average Time: 1.0255077095697092
+2019-03-01 06:54:52 INFO     --> Processed: 22093; Average Time: 1.0248646650822075
+2019-03-01 06:55:49 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_350625]
+2019-03-01 06:56:23 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_20831168]
+2019-03-01 06:57:18 INFO     --> Processed: 22193; Average Time: 1.0268620818001883
+2019-03-01 06:58:35 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294455]
+2019-03-01 06:58:50 INFO     --> Processed: 22293; Average Time: 1.026369943093816
+2019-03-01 07:00:25 INFO     --> Processed: 22393; Average Time: 1.0260141684148953
+2019-03-01 07:04:34 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24721476]
+2019-03-01 07:05:22 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_42636452]
+2019-03-01 07:09:02 INFO     --> Processed: 22493; Average Time: 1.0448636823350732
+2019-03-01 07:09:04 INFO     --> Processed: 22593; Average Time: 1.04022942771739
+2019-03-01 07:09:06 INFO     --> Processed: 22693; Average Time: 1.0356457960283434
+2019-03-01 07:09:08 INFO     --> Processed: 22793; Average Time: 1.0310955818565437
+2019-03-01 07:09:10 INFO     --> Processed: 22893; Average Time: 1.026569087526628
+2019-03-01 07:12:15 INFO     --> Processed: 22993; Average Time: 1.0302434549331665
+2019-03-01 07:12:58 INFO     --> Processed: 23093; Average Time: 1.027555645356136
+2019-03-01 07:14:26 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.1525_si.1996.19.4.cover]
+2019-03-01 07:14:36 INFO     --> Processed: 23193; Average Time: 1.0273577299307097
+2019-03-01 07:16:02 INFO     --> Processed: 23293; Average Time: 1.0266394062104978
+2019-03-01 07:20:03 INFO     --> Processed: 23393; Average Time: 1.0326674342467794
+2019-03-01 07:20:04 INFO     --> Processed: 23493; Average Time: 1.0282264477170031
+2019-03-01 07:21:25 INFO     --> Processed: 23593; Average Time: 1.0272587930691706
+2019-03-01 07:21:41 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_44816973]
+2019-03-01 07:22:55 INFO     --> Processed: 23693; Average Time: 1.026724931494943
+2019-03-01 07:24:17 INFO     --> Processed: 23793; Average Time: 1.025849079420638
+2019-03-01 07:24:21 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24721064]
+2019-03-01 07:25:43 INFO     --> Processed: 23893; Average Time: 1.0251188231329633
+2019-03-01 07:27:14 INFO     --> Processed: 23993; Average Time: 1.0246485796786369
+2019-03-01 07:28:55 INFO     --> Processed: 24093; Average Time: 1.0245767661373495
+2019-03-01 07:29:20 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_353302]
+2019-03-01 07:29:29 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_20831189]
+2019-03-01 07:30:46 INFO     --> Processed: 24193; Average Time: 1.0249350104653885
+2019-03-01 07:32:29 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_350701]
+2019-03-01 07:32:32 INFO     --> Processed: 24293; Average Time: 1.0250920080838084
+2019-03-01 07:33:57 INFO     --> Processed: 24393; Average Time: 1.02434865350005
+2019-03-01 07:36:05 INFO     --> Processed: 24493; Average Time: 1.025430679221948
+2019-03-01 07:37:40 INFO     --> Processed: 24593; Average Time: 1.025115886981062
+2019-03-01 07:39:55 INFO     --> Processed: 24693; Average Time: 1.0264310761227096
+2019-03-01 07:41:10 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_24205665]
+2019-03-01 07:42:49 INFO     --> Processed: 24793; Average Time: 1.0293988012973174
+2019-03-01 07:44:20 INFO     --> Processed: 24893; Average Time: 1.0289100560008502
+2019-03-01 07:44:31 INFO     --> Processed: 24993; Average Time: 1.025143527692678
+2019-03-01 07:46:18 INFO     --> Processed: 25093; Average Time: 1.0253417524089659
+2019-03-01 07:47:52 INFO     --> Processed: 25193; Average Time: 1.024969923370763
+2019-03-01 07:50:22 INFO     --> Processed: 25293; Average Time: 1.0268980872823346
+2019-03-01 07:51:39 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_30124362]
+2019-03-01 07:52:23 INFO     --> Processed: 25393; Average Time: 1.0276525970060661
+2019-03-01 07:53:19 INFO     --> Processed: 25493; Average Time: 1.0257513609981537
+2019-03-01 07:54:35 INFO     --> Processed: 25593; Average Time: 1.0247117094119707
+2019-03-01 07:54:49 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_44816214]
+2019-03-01 07:56:06 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43294339]
+2019-03-01 07:56:30 INFO     --> Processed: 25693; Average Time: 1.0252008936897157
+2019-03-01 07:57:36 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41800866]
+2019-03-01 07:57:50 INFO     --> Processed: 25793; Average Time: 1.0243232611139772
+2019-03-01 07:57:57 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_44824696]
+2019-03-01 07:58:32 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_351953]
+2019-03-01 07:59:27 INFO     --> Processed: 25893; Average Time: 1.0240900490039915
+2019-03-01 08:01:35 INFO     --> Processed: 25993; Average Time: 1.025092396595899
+2019-03-01 08:04:14 INFO     --> Processed: 26093; Average Time: 1.027292863531038
+2019-03-01 08:05:11 INFO     --> Processed: 26193; Average Time: 1.0255120565084168
+2019-03-01 08:05:54 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41844088]
+2019-03-01 08:06:22 INFO     --> Processed: 26293; Average Time: 1.0243108021935752
+2019-03-01 08:08:05 INFO     --> Processed: 26393; Average Time: 1.02431000625765
+2019-03-01 08:09:59 INFO     --> Processed: 26493; Average Time: 1.024772211762575
+2019-03-01 08:11:46 INFO     --> Processed: 26593; Average Time: 1.0249408950659507
+2019-03-01 08:12:44 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_1387396]
+2019-03-01 08:13:58 INFO     --> Processed: 26693; Average Time: 1.0260621732609874
+2019-03-01 08:14:32 INFO     --> Processed: 26793; Average Time: 1.0234531327798793
+2019-03-01 08:16:26 INFO     --> Processed: 26893; Average Time: 1.023888056675593
+2019-03-01 08:18:02 INFO     --> Processed: 26993; Average Time: 1.0236708323370736
+2019-03-01 08:19:54 INFO     --> Processed: 27093; Average Time: 1.024014547624086
+2019-03-01 08:20:53 INFO     --> Processed: 27193; Average Time: 1.0223841483137581
+2019-03-01 08:23:10 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_1385050]
+2019-03-01 08:23:31 INFO     --> Processed: 27293; Average Time: 1.024464698264848
+2019-03-01 08:24:42 INFO     --> Processed: 27393; Average Time: 1.0233062598607796
+2019-03-01 08:26:15 INFO     --> Processed: 27493; Average Time: 1.0229495169939817
+2019-03-01 08:27:30 INFO     --> Processed: 27593; Average Time: 1.0219413329666391
+2019-03-01 08:29:08 INFO     --> Processed: 27693; Average Time: 1.0217942735465133
+2019-03-01 08:31:14 INFO     --> Processed: 27793; Average Time: 1.0226804783056072
+2019-03-01 08:33:23 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_monthlylaborrev.2013.01.049]
+2019-03-01 08:33:36 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41484680]
+2019-03-01 08:34:34 INFO     --> Processed: 27893; Average Time: 1.026240320109973
+2019-03-01 08:34:47 INFO     --> Processed: 27993; Average Time: 1.02296883503307
+2019-03-01 08:36:11 INFO     --> Processed: 28093; Average Time: 1.0223246438866076
+2019-03-01 08:37:02 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_41163723]
+2019-03-01 08:37:32 INFO     --> Processed: 28193; Average Time: 1.0215648641741233
+2019-03-01 08:40:26 INFO     --> Processed: 28293; Average Time: 1.0241235739635908
+2019-03-01 08:42:30 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_20831155]
+2019-03-01 08:43:09 INFO     --> Processed: 28393; Average Time: 1.0263070360050406
+2019-03-01 08:43:12 INFO     --> Processed: 28493; Average Time: 1.0227575838395528
+2019-03-01 08:45:22 INFO     --> Processed: 28593; Average Time: 1.0237228830938236
+2019-03-01 08:46:23 INFO     --> Processed: 28693; Average Time: 1.0222556432088217
+2019-03-01 08:46:38 WARNING  [Exception] => [division by zero] - [FileSetID: 002], [FileID: 10.2307_43596709]
