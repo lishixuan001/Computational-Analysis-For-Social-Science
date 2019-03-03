@@ -148,7 +148,11 @@ def create_mapping_operation(article_file_set_name, loaded_ids=[], cpu_count=8, 
         # Get file IDs from "metadata" folder
         # -> ["10.1086_210007", "10.1086_1038856", ...]
         file_ids = [parse_article_id(filename) for filename in listdir(join(file_set_path, standard_folder))]
-        file_ids = filter_file_ids(file_ids, loaded_ids, file_set_id)
+        file_ids = filter_file_ids_banned(file_ids, file_set_id)
+        
+        logger.info("--> Total Files [{}]".format(len(file_ids)))
+        
+        file_ids = filter_file_ids_loaded(file_ids, loaded_ids)
 
         num_loaded = len(loaded_ids)
         if num_loaded > 0:
@@ -209,6 +213,8 @@ def create_mapping_operation(article_file_set_name, loaded_ids=[], cpu_count=8, 
     cur.close()
     conn.close()
     
+    logger.info("Mission Complete")
+    
     return
 
         
@@ -227,7 +233,9 @@ if __name__ == "__main__":
     
     # Check if reset table in db
     if args.db_reset:
-        permission_code = input("Please input authorization code: ")
+        logger.info("DB Reset Command Received")
+        logger.info("Please input authorization code: ")
+        permission_code = input()
         if permission_code == "jstor":
             clear_db_table(logger, db_root, db_name)
             init_db_table(logger, db_root, db_name)
