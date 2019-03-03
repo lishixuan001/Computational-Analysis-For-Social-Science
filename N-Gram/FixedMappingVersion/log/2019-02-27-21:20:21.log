@@ -1,0 +1,8 @@
+2019-02-27 21:20:21 INFO     Connecting to DB
+2019-02-27 21:20:21 INFO     Start Iterative Mapping
+2019-02-27 21:20:21 INFO     Loading File Set: [014]
+2019-02-27 21:20:21 INFO     Async Processing
+2019-02-27 21:20:22 INFO     Start Collecting Results
+2019-02-27 21:23:12 INFO     --> Processed: 100; Average Time: 1.7003380894660949
+2019-02-27 21:27:15 INFO     --> Processed: 200; Average Time: 2.0665832602977754
+2019-02-27 21:29:39 INFO     --> Processed: 400; Average Time: 1.3928252232074738

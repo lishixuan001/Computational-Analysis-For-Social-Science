@@ -345,17 +345,23 @@ def get_freq_list(file_path):
     return freq_list
 
 
-def filter_file_ids(file_ids, loaded_ids, file_set_id):
-    # Resume history loading
-    if len(loaded_ids) > 0:
-        for loaded_id in loaded_ids:
-            file_ids.remove(loaded_id)
+def filter_file_ids_banned(file_ids, file_set_id):
 
     # Remove banned file_ids
     banned_ids = df_diffs_sum[df_diffs_sum["set_id"]==file_set_id]["np_diff_ids"].tolist()[0].tolist()
     for banned_id in banned_ids:
         file_ids.remove(banned_id)
         
+    return file_ids
+
+
+def filter_file_ids_loaded(file_ids, loaded_ids):
+    
+    # Resume history loading
+    if len(loaded_ids) > 0:
+        for loaded_id in loaded_ids:
+            file_ids.remove(loaded_id)
+ 
     return file_ids
     
 ######################################################

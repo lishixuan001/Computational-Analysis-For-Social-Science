@@ -1,0 +1,8 @@
+2019-02-27 21:10:01 INFO     Connecting to DB
+2019-02-27 21:10:01 INFO     Start Iterative Mapping
+2019-02-27 21:10:02 INFO     Computing File Set: [014]
+2019-02-27 21:10:02 INFO     Multi-Processing Files 
+2019-02-27 21:10:02 INFO     Async Running -- To Be Completed
+2019-02-27 21:10:02 INFO     Removing Inconsistent Files
+2019-02-27 21:10:02 INFO     Start Collecting Results
+2019-02-27 21:12:51 INFO     Processed: 100; Average Time: 1.691442596912384
