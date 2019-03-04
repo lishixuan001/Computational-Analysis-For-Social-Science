@@ -1,0 +1,7 @@
+2019-03-03 18:48:21 INFO     DB Reset Command Received
+2019-03-03 18:48:21 INFO     Please input authorization code: 
+2019-03-03 18:48:25 INFO     Table Dropped
+2019-03-03 18:48:25 INFO     Table Init Success
+2019-03-03 18:48:25 INFO     Connecting to DB
+2019-03-03 18:48:25 INFO     Processing Mapping
+2019-03-03 18:48:25 INFO     Loading File Set: [003]
