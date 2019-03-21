@@ -1,3 +1,58 @@
+__author__ = “Wayne Li”
+__copyright__ = “Copyright 2018, Haveman Research Group”
+__credits__ = [“Wayne Li”]
+__version__ = “1.2.1”
+__maintainer__ = “Wayne Li”
+__email__ = “lishixuan001@berkeley.edu”
+__status__ = “Complete”
+
+##########################################################################
+'''
+    The scripts reads information from the N-Gram files which has file 
+names notating file ID and the ngram type, use our dictionary to map
+the number of apperance of corresponding phrases in the N-Gram file, 
+and store the number of matchs and the total number of N-Gram phrases
+into a database (one db for a zipfile which stores multiple file 
+contents). The databases are stored in "map_results" directory.
+
+    The are two main parts in this scripts:
+
+==> Environment Variables
+    Defines related hyperparameters. E.g, loading the dictionary, set up 
+    the logger
+
+==> Mapping Operations
+    The mapping process here focus on the high level method calling. The
+    method functions are defined in utils.py
+
+    The results of this file is to output, based on the file set id we 
+define as an argument, a database containing :
+    '{set_id}', '{file_id}', 
+    {n1_culture}, {n1_demographic}, {n1_relational}, 
+    {n2_culture}, {n2_demographic}, {n2_relational},
+    {n3_culture}, {n3_demographic}, {n3_relational}, 
+    {culture_rate}, {demographic_rate}, {relational_rate},
+    '{classification}'
+where set_id, file_id, and classification are in string format, and others
+in float(number) format. The calculation here only gives mapping rate for 
+each ngram type. E.g, n1_culture means 
+(# of matchs in ngram1 for Culture) / (# of ngram1 words for the file)
+
+    The version of output is updated to only contain counts rather than 
+rates by the update_map_result.ipynb file, which multiplies each rate
+by the denominator (total # of words in each ngram type for each file)
+
+'''
+##########################################################################
+'''
+    NOTE: The file provides hyperparameters to be adjusted. The params 
+are defined and stored in utils.py. The __main__ function of this function
+loads arguments defined in utils.py.
+'''
+##########################################################################
+
+
+
 import os
 from os import listdir
 from os.path import isfile, join
@@ -21,9 +76,6 @@ from utils import *
 """
 Article Set List & Load Dictionary 
 """
-# Get filtering results
-# articles_file_set_list = sorted([filename for filename in os.listdir(extracted_articles_root) if valid_file_set(filename)])
-
 # Load dictionary
 dataFrame_dictionary = create_dictionary_dataframe()
 # Set up logger
@@ -85,6 +137,7 @@ def get_mapping_rate(file_path, ngram_type):
         return e, False
 
 
+    
 def manage_file(file_id, file_set_id, file_set_path):
 
     dataline = []
@@ -121,6 +174,7 @@ def manage_file(file_id, file_set_id, file_set_path):
     dataline.append(prediction)
 
     return dataline
+
 
     
 """

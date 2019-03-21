@@ -1,3 +1,39 @@
+__author__ = “Wayne Li”
+__copyright__ = “Copyright 2018, Haveman Research Group”
+__credits__ = [“Wayne Li”]
+__version__ = “1.2.1”
+__maintainer__ = “Wayne Li”
+__email__ = “lishixuan001@berkeley.edu”
+__status__ = “Complete”
+
+##########################################################################
+'''
+This scripts contains underlaying methods for Mapping.py. The script is 
+septerated into several sections as following:
+
+==> Load Arguments: 
+    The arguments for running the Mapping scripts. Explanations are besides
+
+==> Environment Variables:
+    The hyperparameters for the scripts. E.g, the root path for dictionaries,
+    the paths for output database storages, etc.
+
+==> Default Methods:
+    The methods that aids development process. E.g, the progress bar, the 
+    document display formatting, etc
+
+==> Analysis Management:
+    The methods that aids the Mapping process. E.g, count the number of N-Gram
+    phrases in the file, calculate the rate
+
+==> Database Interactions
+    Manipulations to the database. E.g, Init new table, clear the database, 
+    load data from the database, etc
+'''
+##########################################################################
+
+
+
 import os
 from os import listdir
 from os.path import isfile, join
@@ -363,6 +399,7 @@ def filter_file_ids_loaded(file_ids, loaded_ids):
             file_ids.remove(loaded_id)
  
     return file_ids
+    
     
 ######################################################
 #                Database Interactions               #
