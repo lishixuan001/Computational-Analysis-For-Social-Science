@@ -13,7 +13,7 @@ names notating file ID and the ngram type, use our dictionary to map
 the number of apperance of corresponding phrases in the N-Gram file, 
 and store the number of matchs and the total number of N-Gram phrases
 into a database (one db for a zipfile which stores multiple file 
-contents). The databases are stored in "map_results" directory.
+contents). The databases are stored in "map_results" directory [SQLite].
 
     The are two main parts in this scripts:
 
