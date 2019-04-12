@@ -1,0 +1,38 @@
+2019-03-02 01:09:37 INFO     DB Reset Command Received
+2019-03-02 01:09:37 INFO     Please input authorization code: 
+2019-03-02 01:09:43 WARNING  [Exception] => [no such table: map_result]
+2019-03-02 01:09:43 INFO     Table Init Success
+2019-03-02 01:09:43 INFO     Connecting to DB
+2019-03-02 01:09:43 INFO     Processing Mapping
+2019-03-02 01:09:43 INFO     Loading File Set: [006]
+2019-03-02 01:09:43 INFO     --> Total Files [28880]
+2019-03-02 01:09:43 INFO     Async Processing
+2019-03-02 01:09:44 INFO     Collecting Results
+2019-03-02 01:11:44 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_350690]
+2019-03-02 01:11:51 INFO     --> Processed: 100; Average Time: 1.2737573790550232
+2019-03-02 01:13:37 INFO     --> Processed: 200; Average Time: 1.1652970266342164
+2019-03-02 01:15:20 INFO     --> Processed: 300; Average Time: 1.1220430723826091
+2019-03-02 01:16:10 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_41304559]
+2019-03-02 01:17:04 INFO     --> Processed: 400; Average Time: 1.1014873135089873
+2019-03-02 01:18:29 INFO     --> Processed: 500; Average Time: 1.0498874816894532
+2019-03-02 01:19:26 INFO     --> Processed: 600; Average Time: 0.970417762597402
+2019-03-02 01:21:08 INFO     --> Processed: 700; Average Time: 0.9766289557729448
+2019-03-02 01:21:45 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_41843887]
+2019-03-02 01:23:19 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_1387629]
+2019-03-02 01:24:45 INFO     --> Processed: 800; Average Time: 1.1268582665920257
+2019-03-02 01:24:50 INFO     --> Processed: 900; Average Time: 1.007248822848002
+2019-03-02 01:25:38 INFO     --> Processed: 1000; Average Time: 0.9542407903671265
+2019-03-02 01:27:38 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_41844295]
+2019-03-02 01:27:44 INFO     --> Processed: 1100; Average Time: 0.981962761445479
+2019-03-02 01:28:00 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_44243067]
+2019-03-02 01:28:43 INFO     --> Processed: 1200; Average Time: 0.9491601783037186
+2019-03-02 01:29:58 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_43295010]
+2019-03-02 01:38:56 WARNING  [Exception] => [division by zero] - [FileSetID: 006], [FileID: 10.2307_350709]
+2019-03-02 01:39:34 INFO     --> Processed: 1300; Average Time: 1.376959291971647
+2019-03-02 01:39:35 INFO     --> Processed: 1400; Average Time: 1.2792254524571556
+2019-03-02 01:39:36 INFO     --> Processed: 1500; Average Time: 1.1945321351687113
+2019-03-02 01:39:37 INFO     --> Processed: 1600; Average Time: 1.120408487468958
+2019-03-02 01:39:37 INFO     --> Processed: 1700; Average Time: 1.0550075136913972
+2019-03-02 01:39:38 INFO     --> Processed: 1800; Average Time: 0.9968540220790439
+2019-03-02 01:40:17 INFO     --> Processed: 1900; Average Time: 0.9646460968569706
+2019-03-02 01:41:39 INFO     --> Processed: 2000; Average Time: 0.9576476612091065

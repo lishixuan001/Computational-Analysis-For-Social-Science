@@ -1,0 +1,19 @@
+2019-02-28 00:01:50 INFO     Connecting to DB
+2019-02-28 00:01:50 INFO     Start Iterative Mapping
+2019-02-28 00:01:50 INFO     Loading File Set: [014]
+2019-02-28 00:01:50 INFO     --> Detect Loaded [150], Resume Mapping
+2019-02-28 00:01:50 INFO     Async Processing
+2019-02-28 00:01:51 INFO     Collecting Results
+2019-02-28 00:06:26 INFO     --> Processed: 250; Average Time: 2.7532819366455077
+2019-02-28 00:07:03 INFO     --> Processed: 350; Average Time: 1.5632302343845368
+2019-02-28 00:08:22 INFO     --> Processed: 450; Average Time: 1.3048600721359254
+2019-02-28 00:10:05 INFO     --> Processed: 550; Average Time: 1.235451472401619
+2019-02-28 00:12:35 INFO     --> Processed: 650; Average Time: 1.288315360069275
+2019-02-28 00:14:24 INFO     --> Processed: 750; Average Time: 1.2551646443208058
+2019-02-28 00:15:58 WARNING  [Exception] => [division by zero] 
+ => [FileSetID: 014], [FileID: 10.2307_3013006], [NGramType: ngram1]
+2019-02-28 00:15:58 WARNING  [Exception] => [division by zero] 
+ => [FileSetID: 014], [FileID: 10.2307_3013006], [NGramType: ngram2]
+2019-02-28 00:15:58 WARNING  [Exception] => [division by zero] 
+ => [FileSetID: 014], [FileID: 10.2307_3013006], [NGramType: ngram3]
+2019-02-28 00:16:07 INFO     --> Processed: 850; Average Time: 1.2237502666882105

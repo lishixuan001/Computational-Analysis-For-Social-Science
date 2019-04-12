@@ -1,0 +1,10 @@
+2019-03-01 17:10:21 INFO     DB Reset Command Received
+2019-03-01 17:10:21 INFO     Please input authorization code: 
+2019-03-01 17:10:24 WARNING  [Exception] => [no such table: map_result]
+2019-03-01 17:10:24 INFO     Table Init Success
+2019-03-01 17:10:24 INFO     Connecting to DB
+2019-03-01 17:10:24 INFO     Processing Mapping
+2019-03-01 17:10:24 INFO     Loading File Set: [005]
+2019-03-01 17:10:25 INFO     --> Total Files [29192]
+2019-03-01 17:10:25 INFO     Async Processing
+2019-03-01 17:10:25 INFO     Collecting Results

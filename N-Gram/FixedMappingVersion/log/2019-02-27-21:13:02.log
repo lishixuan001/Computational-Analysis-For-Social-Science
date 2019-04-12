@@ -1,9 +1,0 @@
-2019-02-27 21:13:02 INFO     Table Dropped
-2019-02-27 21:13:02 INFO     Table Init Success
-2019-02-27 21:13:02 INFO     Connecting to DB
-2019-02-27 21:13:02 INFO     Start Iterative Mapping
-2019-02-27 21:13:02 INFO     Computing File Set: [014]
-2019-02-27 21:13:02 INFO     --> Removing Inconsistent Files
-2019-02-27 21:13:02 INFO     Async Processing
-2019-02-27 21:13:02 INFO     Start Collecting Results
-2019-02-27 21:15:53 INFO     --> Processed: 100; Average Time: 1.7069708037376403

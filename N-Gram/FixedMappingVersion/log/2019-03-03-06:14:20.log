@@ -1,9 +1,0 @@
-2019-03-03 06:14:20 INFO     Connecting to DB
-2019-03-03 06:14:21 INFO     --> Duplicates Detected in DB, Cleaning Up
-2019-03-03 06:14:35 INFO     --> Cleaned Up Duplicates [2842], Remaining [26127]
-2019-03-03 06:14:35 INFO     Processing Mapping
-2019-03-03 06:14:35 INFO     Loading File Set: [008]
-2019-03-03 06:14:36 INFO     --> Total Files [29055]
-2019-03-03 06:14:37 INFO     --> Detect Loaded [26127], Resume Mapping
-2019-03-03 06:14:37 INFO     Async Processing
-2019-03-03 06:14:37 INFO     Collecting Results
