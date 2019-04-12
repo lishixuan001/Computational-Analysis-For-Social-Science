@@ -52,6 +52,14 @@ def load_data(id):
     return df_database 
 
 
+def load_full_data():
+    map_results = []
+    for id in range(1, 15):
+        map_results.append(load_data(id))
+    return pd.concat(map_results)
+
+
+
 def collect_data():
     """
     Collect Data for Three Classes
@@ -59,6 +67,8 @@ def collect_data():
     culture_data = dict()
     demographic_data = dict()
     relational_data = dict()
+
+    map_full_results = load_full_data()
     
     for id in range(1, 15):
         
@@ -66,7 +76,7 @@ def collect_data():
         
         metadata = load_meta(id)
         map_results = load_data(id)
-        
+
         invalid_year = 0
         invalid_id = 0
         for index, row in metadata.iterrows():
@@ -78,6 +88,8 @@ def collect_data():
                 article_id = article_id.split('/')[-1]
                 
                 data_row = map_results.loc[map_results['file_id'] == article_id]
+                if data_row.empty:
+                    data_row = map_full_results.loc[map_full_results['file_id'] == article_id]
 
                 if not data_row.empty:
                     culture_count = int(data_row['culture_count'])
